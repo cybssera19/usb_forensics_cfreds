@@ -1,0 +1,1479 @@
+﻿
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:37:20.499256+00:00", "usn": 56102424, "segment_id": "70401#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\[secret_project]_proposal.lnk", "reason": "FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:40.065622+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:37:20.499256+00:00", "usn": 56102544, "segment_id": "70401#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\[secret_project]_proposal.lnk", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:40.065622+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:37:20.499256+00:00", "usn": 56102664, "segment_id": "70401#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\[secret_project]_proposal.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.067626+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:37:54.491716+00:00", "usn": 56117112, "segment_id": "71235#3", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_proposal.LNK", "reason": "FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.091606+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:37:54.491716+00:00", "usn": 56117232, "segment_id": "71235#3", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_proposal.LNK", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.091606+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:37:54.491716+00:00", "usn": 56117352, "segment_id": "71235#3", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_proposal.LNK", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.091606+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:37:54.491716+00:00", "usn": 56118096, "segment_id": "71235#3", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_proposal.LNK", "reason": "FILE_DELETE|CLOSE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.091606+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:37:54.491716+00:00", "usn": 56118216, "segment_id": "71235#4", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_proposal.LNK", "reason": "FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.091606+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:37:54.491716+00:00", "usn": 56118336, "segment_id": "71235#4", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_proposal.LNK", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.091606+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:37:54.491716+00:00", "usn": 56118456, "segment_id": "71235#4", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_proposal.LNK", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.091606+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:38:21.230162+00:00", "usn": 56254256, "segment_id": "71140#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\[secret_project]_design_concept.lnk", "reason": "FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:40.311307+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:38:21.230162+00:00", "usn": 56254464, "segment_id": "71140#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\[secret_project]_design_concept.lnk", "reason": "DATA_EXTEND|FILE_CREATE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.311307+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:38:21.230162+00:00", "usn": 56254600, "segment_id": "71140#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\[secret_project]_design_concept.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.311307+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:38:23.429766+00:00", "usn": 56258248, "segment_id": "71947#28", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_design_concept.LNK", "reason": "FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.315316+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:38:23.429766+00:00", "usn": 56258384, "segment_id": "71947#28", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_design_concept.LNK", "reason": "DATA_EXTEND|FILE_CREATE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.315316+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:38:23.429766+00:00", "usn": 56258560, "segment_id": "71947#28", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_design_concept.LNK", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.315316+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:38:23.445366+00:00", "usn": 56259016, "segment_id": "71947#28", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_design_concept.LNK", "reason": "FILE_DELETE|CLOSE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.317319+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:38:23.445366+00:00", "usn": 56259152, "segment_id": "71947#29", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_design_concept.LNK", "reason": "FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.317319+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:38:23.445366+00:00", "usn": 56259288, "segment_id": "71947#29", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_design_concept.LNK", "reason": "DATA_EXTEND|FILE_CREATE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.317319+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:38:23.445366+00:00", "usn": 56259424, "segment_id": "71947#29", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_design_concept.LNK", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.317319+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:39:35.158691+00:00", "usn": 56299520, "segment_id": "71149#7", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_design_concept.ppt", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:40.374162+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:39:35.158691+00:00", "usn": 56299656, "segment_id": "71149#7", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_design_concept.ppt", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:40.374162+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:39:35.158691+00:00", "usn": 56299792, "segment_id": "71149#7", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_design_concept.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:40.374162+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:39:35.158691+00:00", "usn": 56299928, "segment_id": "71149#7", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_design_concept.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.374162+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:39:35.158691+00:00", "usn": 56300064, "segment_id": "71149#7", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_design_concept.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.374162+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:39:35.158691+00:00", "usn": 56300200, "segment_id": "71150#4", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_detailed_proposal.docx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:40.374162+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:39:35.174292+00:00", "usn": 56300344, "segment_id": "71150#4", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_detailed_proposal.docx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:40.374162+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:39:35.221092+00:00", "usn": 56300576, "segment_id": "71150#4", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_detailed_proposal.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:40.374162+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:39:37.373898+00:00", "usn": 56302392, "segment_id": "71150#4", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_detailed_proposal.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.379474+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:39:37.373898+00:00", "usn": 56302536, "segment_id": "71150#4", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_detailed_proposal.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:40.379474+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:41:40.269314+00:00", "usn": 56306184, "segment_id": "71150#4", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_detailed_proposal.docx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:40.382110+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T18:41:55.263943+00:00", "usn": 56307712, "segment_id": "71149#7", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_design_concept.ppt", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:40.382110+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:53.768192+00:00", "usn": 58454840, "segment_id": "4219#2", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": "FILE_CREATE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.251059+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:53.768192+00:00", "usn": 58454984, "segment_id": "4219#2", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": "DATA_EXTEND|FILE_CREATE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.251059+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:53.768192+00:00", "usn": 58455128, "segment_id": "4219#2", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": 
+"DATA_EXTEND|FILE_CREATE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.251059+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:53.846193+00:00", "usn": 58456312, "segment_id": "4219#2", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": "FILE_DELETE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.251059+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:53.861794+00:00", "usn": 58456456, "segment_id": "4219#3", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": "FILE_CREATE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.251059+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:53.861794+00:00", "usn": 58456600, "segment_id": "4219#3", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": "DATA_EXTEND|FILE_CREATE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.251059+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:53.861794+00:00", "usn": 58456744, "segment_id": "4219#3", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": 
+"DATA_EXTEND|FILE_CREATE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.251059+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:53.986593+00:00", "usn": 58457784, "segment_id": "4249#2", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\(secret_project)_pricing_decision.xlsx.lnk", "reason": "FILE_CREATE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:43.251059+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:53.986593+00:00", "usn": 58457928, "segment_id": "4249#2", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\(secret_project)_pricing_decision.xlsx.lnk", "reason": "DATA_EXTEND|FILE_CREATE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.251059+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:53.986593+00:00", "usn": 58458112, "segment_id": "4249#2", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\(secret_project)_pricing_decision.xlsx.lnk", "reason": 
+"DATA_EXTEND|FILE_CREATE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.251059+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:56.016596+00:00", "usn": 58460328, "segment_id": "4219#3", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": "FILE_DELETE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.256903+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:56.016596+00:00", "usn": 58460472, "segment_id": "4219#4", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": "FILE_CREATE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.256903+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:56.016596+00:00", "usn": 58460616, "segment_id": "4219#4", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": "DATA_EXTEND|FILE_CREATE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.256903+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:56.016596+00:00", "usn": 58460760, "segment_id": "4219#4", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": 
+"DATA_EXTEND|FILE_CREATE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.256903+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:56.032196+00:00", "usn": 58461464, "segment_id": "4219#4", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": "FILE_DELETE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.258908+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:56.032196+00:00", "usn": 58461608, "segment_id": "4219#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": "FILE_CREATE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.258908+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:56.032196+00:00", "usn": 58461752, "segment_id": "4219#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": "DATA_EXTEND|FILE_CREATE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.258908+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:26:56.032196+00:00", "usn": 58461896, "segment_id": "4219#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\(secret_project)_pricing_decision.xlsx.LNK", "reason": 
+"DATA_EXTEND|FILE_CREATE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.258908+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:27:33.329468+00:00", "usn": 58471264, "segment_id": "4166#56", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\[secret_project]_final_meeting.pptx.lnk", "reason": "FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:43.268927+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:27:33.329468+00:00", "usn": 58471408, "segment_id": "4166#56", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\[secret_project]_final_meeting.pptx.lnk", "reason": "DATA_EXTEND|FILE_CREATE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.268927+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:27:33.345068+00:00", "usn": 58471552, "segment_id": "4166#56", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\[secret_project]_final_meeting.pptx.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.268927+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:27:37.248075+00:00", "usn": 58485656, "segment_id": "7508#2", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_final_meeting.pptx.LNK", "reason": "FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.306429+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:27:37.248075+00:00", "usn": 58485800, "segment_id": "7508#2", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_final_meeting.pptx.LNK", "reason": "DATA_EXTEND|FILE_CREATE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.306429+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:27:37.248075+00:00", "usn": 58485944, "segment_id": "7508#2", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_final_meeting.pptx.LNK", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.306429+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:27:37.263674+00:00", "usn": 58486408, "segment_id": "7508#2", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_final_meeting.pptx.LNK", "reason": "FILE_DELETE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.306429+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:27:37.263674+00:00", "usn": 58486552, "segment_id": "7508#3", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_final_meeting.pptx.LNK", "reason": "FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.306429+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:27:37.263674+00:00", "usn": 58486784, "segment_id": "7508#3", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_final_meeting.pptx.LNK", "reason": "DATA_EXTEND|FILE_CREATE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.306429+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:27:37.263674+00:00", "usn": 58486928, "segment_id": "7508#3", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Office\\Recent\\[secret_project]_final_meeting.pptx.LNK", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE|NOT_CONTENT_INDEXED", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.306429+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:28:26.892563+00:00", "usn": 58497480, "segment_id": "4174#7", "path": 
+"c:\\<broken_reference_0x115eb#6>\\(secret_project)_pricing_decision.xlsx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:43.306429+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:28:26.892563+00:00", "usn": 58497616, "segment_id": "4174#7", "path": 
+"c:\\<broken_reference_0x115eb#6>\\(secret_project)_pricing_decision.xlsx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:43.306429+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:28:26.908163+00:00", "usn": 58497752, "segment_id": "4174#7", "path": 
+"c:\\<broken_reference_0x115eb#6>\\(secret_project)_pricing_decision.xlsx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:43.306429+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:28:26.908163+00:00", "usn": 58497888, "segment_id": "4174#7", "path": 
+"c:\\<broken_reference_0x115eb#6>\\(secret_project)_pricing_decision.xlsx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.306429+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:28:26.908163+00:00", "usn": 58498024, "segment_id": "4174#7", "path": 
+"c:\\<broken_reference_0x115eb#6>\\(secret_project)_pricing_decision.xlsx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.306429+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:28:32.541775+00:00", "usn": 58503392, "segment_id": "4292#5", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_final_meeting.pptx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:43.328860+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:28:32.541775+00:00", "usn": 58503528, "segment_id": "4292#5", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_final_meeting.pptx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:43.328860+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:28:32.557373+00:00", "usn": 58503664, "segment_id": "4292#5", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_final_meeting.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:43.328860+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:28:32.588573+00:00", "usn": 58503800, "segment_id": "4292#5", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_final_meeting.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.328860+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:28:32.588573+00:00", "usn": 58503936, "segment_id": "4292#5", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_final_meeting.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:43.328860+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:30:44.624012+00:00", "usn": 58506640, "segment_id": "4174#7", "path": 
+"c:\\<broken_reference_0x115eb#6>\\(secret_project)_pricing_decision.xlsx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:43.328860+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-23T20:31:02.909248+00:00", "usn": 58510288, "segment_id": "4292#5", "path": 
+"c:\\<broken_reference_0x115eb#6>\\[secret_project]_final_meeting.pptx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:43.335974+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:09.308054+00:00", "usn": 59756864, "segment_id": "47135#13", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_design_concept.ppt", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.081393+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:09.308054+00:00", "usn": 59757000, "segment_id": "47135#13", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_design_concept.ppt", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.081393+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:09.308054+00:00", "usn": 59757136, "segment_id": "47135#13", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_design_concept.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.081393+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:09.401653+00:00", "usn": 59757272, "segment_id": "47135#13", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_design_concept.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.081393+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:09.401653+00:00", "usn": 59757408, "segment_id": "47135#13", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_design_concept.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.081393+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:09.417253+00:00", "usn": 59757544, "segment_id": "48389#18", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_detailed_design.pptx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.081393+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:09.417253+00:00", "usn": 59757680, "segment_id": "48389#18", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_detailed_design.pptx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.081393+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:09.479654+00:00", "usn": 59757816, "segment_id": "48389#18", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_detailed_design.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.081393+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:10.337656+00:00", "usn": 59757952, "segment_id": "48389#18", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_detailed_design.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.081393+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:10.337656+00:00", "usn": 59758088, "segment_id": "48389#18", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_detailed_design.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.081393+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:10.337656+00:00", "usn": 59758224, "segment_id": "62477#6", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_revised_points.ppt", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.081393+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:10.337656+00:00", "usn": 59758360, "segment_id": "62477#6", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_revised_points.ppt", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.081393+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:10.400055+00:00", "usn": 59758496, "segment_id": "62477#6", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_revised_points.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.081393+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:11.117657+00:00", "usn": 59758632, "segment_id": "62477#6", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_revised_points.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.081393+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:11.117657+00:00", "usn": 59758768, "segment_id": "62477#6", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_revised_points.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.081393+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:11.133257+00:00", "usn": 59759144, "segment_id": "62922#38", "path": 
+"c:\\<broken_reference_0xf40f#4>\\[secret_project]_detailed_proposal.docx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.090927+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:11.133257+00:00", "usn": 59759288, "segment_id": "62922#38", "path": 
+"c:\\<broken_reference_0xf40f#4>\\[secret_project]_detailed_proposal.docx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.090927+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:11.195658+00:00", "usn": 59759432, "segment_id": "62922#38", "path": 
+"c:\\<broken_reference_0xf40f#4>\\[secret_project]_detailed_proposal.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.090927+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:13.161261+00:00", "usn": 59760104, "segment_id": "62922#38", "path": 
+"c:\\<broken_reference_0xf40f#4>\\[secret_project]_detailed_proposal.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.090927+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:13.161261+00:00", "usn": 59760248, "segment_id": "62922#38", "path": 
+"c:\\<broken_reference_0xf40f#4>\\[secret_project]_detailed_proposal.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.090927+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:13.161261+00:00", "usn": 59760392, "segment_id": "62980#6", "path": 
+"c:\\<broken_reference_0xf40f#4>\\[secret_project]_proposal.docx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.090927+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:13.161261+00:00", "usn": 59760512, "segment_id": "62980#6", "path": 
+"c:\\<broken_reference_0xf40f#4>\\[secret_project]_proposal.docx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.090927+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:13.192461+00:00", "usn": 59760640, "segment_id": "62980#6", "path": 
+"c:\\<broken_reference_0xf40f#4>\\[secret_project]_proposal.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.090927+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:13.504459+00:00", "usn": 59761144, "segment_id": "62980#6", "path": 
+"c:\\<broken_reference_0xf40f#4>\\[secret_project]_proposal.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.090927+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:40:13.504459+00:00", "usn": 59761264, "segment_id": "62980#6", "path": 
+"c:\\<broken_reference_0xf40f#4>\\[secret_project]_proposal.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.090927+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:57.822079+00:00", "usn": 59785920, "segment_id": "71661#3", "path": 
+"c:\\<broken_reference_0x11745#3>\\[secret_project]_detailed_design.pptx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.112895+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:57.822079+00:00", "usn": 59786056, "segment_id": "71661#3", "path": 
+"c:\\<broken_reference_0x11745#3>\\[secret_project]_detailed_design.pptx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.112895+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:57.837679+00:00", "usn": 59786192, "segment_id": "71661#3", "path": 
+"c:\\<broken_reference_0x11745#3>\\[secret_project]_detailed_design.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.112895+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:57.993679+00:00", "usn": 59786328, "segment_id": "71661#3", "path": 
+"c:\\<broken_reference_0x11745#3>\\[secret_project]_detailed_design.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.112895+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:57.993679+00:00", "usn": 59786464, "segment_id": "71661#3", "path": 
+"c:\\<broken_reference_0x11745#3>\\[secret_project]_detailed_design.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.112895+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:57.993679+00:00", "usn": 59786816, "segment_id": "71719#4", "path": 
+"c:\\<broken_reference_0x11806#14>\\[secret_project]_final_meeting.pptx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.112895+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:57.993679+00:00", "usn": 59786952, "segment_id": "71719#4", "path": 
+"c:\\<broken_reference_0x11806#14>\\[secret_project]_final_meeting.pptx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.112895+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.009279+00:00", "usn": 59787088, "segment_id": "71719#4", "path": 
+"c:\\<broken_reference_0x11806#14>\\[secret_project]_final_meeting.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.112895+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.102879+00:00", "usn": 59787224, "segment_id": "71719#4", "path": 
+"c:\\<broken_reference_0x11806#14>\\[secret_project]_final_meeting.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.112895+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.102879+00:00", "usn": 59787360, "segment_id": "71719#4", "path": 
+"c:\\<broken_reference_0x11806#14>\\[secret_project]_final_meeting.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.112895+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.118479+00:00", "usn": 59787784, "segment_id": "71801#7", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_market_analysis.xlsx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.118479+00:00", "usn": 59787920, "segment_id": "71801#7", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_market_analysis.xlsx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.149679+00:00", "usn": 59788056, "segment_id": "71801#7", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_market_analysis.xlsx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.290079+00:00", "usn": 59788192, "segment_id": "71801#7", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_market_analysis.xlsx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.290079+00:00", "usn": 59788328, "segment_id": "71801#7", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_market_analysis.xlsx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.305679+00:00", "usn": 59788464, "segment_id": "72048#9", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_market_shares.xls", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.305679+00:00", "usn": 59788592, "segment_id": "72048#9", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_market_shares.xls", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.321280+00:00", "usn": 59788720, "segment_id": "72048#9", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_market_shares.xls", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.430481+00:00", "usn": 59788848, "segment_id": "72048#9", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_market_shares.xls", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.430481+00:00", "usn": 59788976, "segment_id": "72048#9", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_market_shares.xls", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.430481+00:00", "usn": 59789104, "segment_id": "72049#8", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_price_analysis_#1.xlsx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.430481+00:00", "usn": 59789312, "segment_id": "72049#8", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_price_analysis_#1.xlsx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.446081+00:00", "usn": 59789456, "segment_id": "72049#8", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_price_analysis_#1.xlsx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.446081+00:00", "usn": 59789600, "segment_id": "72049#8", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_price_analysis_#1.xlsx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.446081+00:00", "usn": 59789744, "segment_id": "72049#8", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_price_analysis_#1.xlsx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.446081+00:00", "usn": 59789888, "segment_id": "72050#10", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_price_analysis_#2.xls", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.446081+00:00", "usn": 59790024, "segment_id": "72050#10", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_price_analysis_#2.xls", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.461681+00:00", "usn": 59790160, "segment_id": "72050#10", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_price_analysis_#2.xls", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.461681+00:00", "usn": 59790296, "segment_id": "72050#10", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_price_analysis_#2.xls", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.461681+00:00", "usn": 59790432, "segment_id": "72050#10", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_price_analysis_#2.xls", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.477282+00:00", "usn": 59790568, "segment_id": "72157#14", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_pricing_decision.xlsx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.477282+00:00", "usn": 59790704, "segment_id": "72157#14", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_pricing_decision.xlsx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.492882+00:00", "usn": 59790840, "segment_id": "72157#14", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_pricing_decision.xlsx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.492882+00:00", "usn": 59790976, "segment_id": "72157#14", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_pricing_decision.xlsx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.492882+00:00", "usn": 59791112, "segment_id": "72157#14", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_pricing_decision.xlsx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.492882+00:00", "usn": 59791488, "segment_id": "74291#4", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#1.docx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.492882+00:00", "usn": 59791616, "segment_id": "74291#4", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#1.docx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.508480+00:00", "usn": 59791744, "segment_id": "74291#4", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#1.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.524080+00:00", "usn": 59791872, "segment_id": "74291#4", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#1.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.524080+00:00", "usn": 59792000, "segment_id": "74291#4", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#1.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.539680+00:00", "usn": 59792128, "segment_id": "74295#6", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#2.docx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.539680+00:00", "usn": 59792256, "segment_id": "74295#6", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#2.docx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.539680+00:00", "usn": 59792384, "segment_id": "74295#6", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#2.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.539680+00:00", "usn": 59792512, "segment_id": "74295#6", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#2.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.539680+00:00", "usn": 59792640, "segment_id": "74295#6", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#2.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.555281+00:00", "usn": 59792768, "segment_id": "74296#3", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#3.doc", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.555281+00:00", "usn": 59792896, "segment_id": "74296#3", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#3.doc", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.570881+00:00", "usn": 59793024, "segment_id": "74296#3", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#3.doc", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.570881+00:00", "usn": 59793152, "segment_id": "74296#3", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#3.doc", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.570881+00:00", "usn": 59793280, "segment_id": "74296#3", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#3.doc", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.121505+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.602081+00:00", "usn": 59793648, "segment_id": "74298#3", "path": 
+"c:\\<broken_reference_0x12239#3>\\[secret_project]_detailed_proposal.docx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.126550+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.602081+00:00", "usn": 59793792, "segment_id": "74298#3", "path": 
+"c:\\<broken_reference_0x12239#3>\\[secret_project]_detailed_proposal.docx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.126550+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.664480+00:00", "usn": 59793936, "segment_id": "74298#3", "path": 
+"c:\\<broken_reference_0x12239#3>\\[secret_project]_detailed_proposal.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.126550+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.898481+00:00", "usn": 59794080, "segment_id": "74298#3", "path": 
+"c:\\<broken_reference_0x12239#3>\\[secret_project]_detailed_proposal.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.126550+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.898481+00:00", "usn": 59794224, "segment_id": "74298#3", "path": 
+"c:\\<broken_reference_0x12239#3>\\[secret_project]_detailed_proposal.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.126550+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.898481+00:00", "usn": 59794656, "segment_id": "74300#7", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#1.docx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.126550+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.914082+00:00", "usn": 59794800, "segment_id": "74300#7", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#1.docx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.126550+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.914082+00:00", "usn": 59794944, "segment_id": "74300#7", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#1.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.126550+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.914082+00:00", "usn": 59795088, "segment_id": "74300#7", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#1.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.126550+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.914082+00:00", "usn": 59795232, "segment_id": "74300#7", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#1.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.126550+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.929682+00:00", "usn": 59795376, "segment_id": "74301#6", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#1.pptx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.126550+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.929682+00:00", "usn": 59795520, "segment_id": "74301#6", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#1.pptx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.126550+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.929682+00:00", "usn": 59795664, "segment_id": "74301#6", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#1.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.126550+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.929682+00:00", "usn": 59795808, "segment_id": "74301#6", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#1.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.929682+00:00", "usn": 59795952, "segment_id": "74301#6", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#1.pptx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.945280+00:00", "usn": 59796096, "segment_id": "74307#3", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#2.docx", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.128555+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.945280+00:00", "usn": 59796240, "segment_id": "74307#3", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#2.docx", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.128555+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.945280+00:00", "usn": 59796384, "segment_id": "74307#3", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#2.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.960880+00:00", "usn": 59796528, "segment_id": "74307#3", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#2.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.960880+00:00", "usn": 59796672, "segment_id": "74307#3", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#2.docx", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.960880+00:00", "usn": 59796816, "segment_id": "74308#4", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#2.ppt", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.128555+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.960880+00:00", "usn": 59796960, "segment_id": "74308#4", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#2.ppt", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.128555+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.960880+00:00", "usn": 59797104, "segment_id": "74308#4", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#2.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.960880+00:00", "usn": 59797248, "segment_id": "74308#4", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#2.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.960880+00:00", "usn": 59797504, "segment_id": "74308#4", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#2.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.960880+00:00", "usn": 59797648, "segment_id": "74309#3", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#3.doc", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.128555+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.960880+00:00", "usn": 59797792, "segment_id": "74309#3", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#3.doc", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.128555+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:58.992081+00:00", "usn": 59797936, "segment_id": "74309#3", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#3.doc", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:59.007681+00:00", "usn": 59798080, "segment_id": "74309#3", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#3.doc", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:59.007681+00:00", "usn": 59798224, "segment_id": "74309#3", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#3.doc", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:59.007681+00:00", "usn": 59798368, "segment_id": "74310#6", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#3.ppt", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.128555+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:59.007681+00:00", "usn": 59798512, "segment_id": "74310#6", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#3.ppt", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.128555+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:59.007681+00:00", "usn": 59798656, "segment_id": "74310#6", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#3.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:59.023281+00:00", "usn": 59798800, "segment_id": "74310#6", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#3.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:47:59.023281+00:00", "usn": 59798944, "segment_id": "74310#6", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#3.ppt", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.128555+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:49:51.896881+00:00", "usn": 59801680, "segment_id": "48389#18", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_detailed_design.pptx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:49:51.896881+00:00", "usn": 59801816, "segment_id": "48389#18", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\winter_whether_advisory.zip", "reason": "RENAME_NEW_NAME", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:49:51.896881+00:00", "usn": 59801936, "segment_id": "48389#18", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\winter_whether_advisory.zip", "reason": "RENAME_NEW_NAME|CLOSE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:50:08.118111+00:00", "usn": 59802408, "segment_id": "62477#6", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_revised_points.ppt", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:50:49.399387+00:00", "usn": 59803456, "segment_id": "47135#13", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\[secret_project]_design_concept.ppt", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:51:16.978441+00:00", "usn": 59804952, "segment_id": "62980#6", "path": 
+"c:\\<broken_reference_0xf40f#4>\\[secret_project]_proposal.docx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:51:16.978441+00:00", "usn": 59805072, "segment_id": "62980#6", "path": 
+"c:\\<broken_reference_0x12239#3>\\[secret_project]_proposal.docx", "reason": "RENAME_NEW_NAME", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:51:16.978441+00:00", "usn": 59805192, "segment_id": "62980#6", "path": 
+"c:\\<broken_reference_0x12239#3>\\[secret_project]_proposal.docx", "reason": "RENAME_NEW_NAME|CLOSE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:51:18.585245+00:00", "usn": 59805984, "segment_id": "48389#18", "path": 
+"c:\\<broken_reference_0xb4b0#14>\\winter_whether_advisory.zip", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:51:18.585245+00:00", "usn": 59806104, "segment_id": "48389#18", "path": 
+"c:\\<broken_reference_0x11745#3>\\winter_whether_advisory.zip", "reason": "RENAME_NEW_NAME", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:51:18.585245+00:00", "usn": 59806224, "segment_id": "48389#18", "path": 
+"c:\\<broken_reference_0x11745#3>\\winter_whether_advisory.zip", "reason": "RENAME_NEW_NAME|CLOSE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:51:23.358852+00:00", "usn": 59806416, "segment_id": "74298#3", "path": 
+"c:\\<broken_reference_0x12239#3>\\[secret_project]_detailed_proposal.docx", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:51:23.358852+00:00", "usn": 59806560, "segment_id": "62922#38", "path": 
+"c:\\<broken_reference_0xf40f#4>\\[secret_project]_detailed_proposal.docx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:51:23.358852+00:00", "usn": 59806704, "segment_id": "62922#38", "path": 
+"c:\\<broken_reference_0x12239#3>\\[secret_project]_detailed_proposal.docx", "reason": "RENAME_NEW_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:51:23.358852+00:00", "usn": 59806848, "segment_id": "62922#38", "path": 
+"c:\\<broken_reference_0x12239#3>\\[secret_project]_detailed_proposal.docx", "reason": "RENAME_NEW_NAME|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.132062+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:52:17.959957+00:00", "usn": 59813488, "segment_id": "71661#3", "path": 
+"c:\\<broken_reference_0x11745#3>\\[secret_project]_detailed_design.pptx", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:52:35.708595+00:00", "usn": 59814352, "segment_id": "71719#4", "path": 
+"c:\\<broken_reference_0x11806#14>\\[secret_project]_final_meeting.pptx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:52:56.999643+00:00", "usn": 59814904, "segment_id": "71801#7", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_market_analysis.xlsx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:53:08.528465+00:00", "usn": 59815232, "segment_id": "72048#9", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_market_shares.xls", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:53:38.854122+00:00", "usn": 59815536, "segment_id": "72049#8", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_price_analysis_#1.xlsx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:53:52.070747+00:00", "usn": 59815968, "segment_id": "72050#10", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_price_analysis_#2.xls", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:54:05.485773+00:00", "usn": 59816312, "segment_id": "72157#14", "path": 
+"c:\\<broken_reference_0x11837#4>\\(secret_project)_pricing_decision.xlsx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:54:23.989414+00:00", "usn": 59816880, "segment_id": "74291#4", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#1.docx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:54:43.133451+00:00", "usn": 59817984, "segment_id": "74295#6", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#2.docx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:54:52.137070+00:00", "usn": 59818320, "segment_id": "74296#3", "path": 
+"c:\\<broken_reference_0x11e98#7>\\[secret_project]_progress_#3.doc", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:55:08.808901+00:00", "usn": 59818624, "segment_id": "62922#38", "path": 
+"c:\\<broken_reference_0x12239#3>\\[secret_project]_detailed_proposal.docx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:55:17.047716+00:00", "usn": 59818976, "segment_id": "62980#6", "path": 
+"c:\\<broken_reference_0x12239#3>\\[secret_project]_proposal.docx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:55:32.087345+00:00", "usn": 59819272, "segment_id": "74300#7", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#1.docx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:55:42.205364+00:00", "usn": 59819592, "segment_id": "74301#6", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#1.pptx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:55:53.633389+00:00", "usn": 59819912, "segment_id": "74307#3", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#2.docx", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.146299+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:56:09.431423+00:00", "usn": 59823280, "segment_id": "74308#4", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#2.ppt", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.159853+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:56:14.509838+00:00", "usn": 59823600, "segment_id": "74309#3", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#3.doc", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.159853+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T13:56:20.883055+00:00", "usn": 59823920, "segment_id": "74310#6", "path": 
+"c:\\<broken_reference_0x1223b#9>\\[secret_project]_technical_review_#3.ppt", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:45.159853+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T14:01:23.425224+00:00", "usn": 60068840, "segment_id": "20180#12", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.459394+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T14:01:23.426224+00:00", "usn": 60068968, "segment_id": "20180#12", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.459394+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T14:01:23.426224+00:00", "usn": 60069096, "segment_id": "20180#12", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.459394+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T14:01:32.336641+00:00", "usn": 60070664, "segment_id": "20180#12", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "FILE_DELETE|CLOSE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.459394+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T14:01:32.336641+00:00", "usn": 60070792, "segment_id": "20180#13", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.459394+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T14:01:32.336641+00:00", "usn": 60070920, "segment_id": "20180#13", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:45.459394+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T14:01:32.336641+00:00", "usn": 60071048, "segment_id": "20180#13", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:45.459394+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T14:07:09.735329+00:00", "usn": 60172136, "segment_id": "48389#18", "path": 
+"c:\\<broken_reference_0x11745#3>\\winter_whether_advisory.zip", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:45.617386+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:46:19.575058+00:00", "usn": 64351392, "segment_id": "24358#10", "path": 
+"c:\\<broken_reference_0x5ba5#21>\\winter_whether_advisory.zip", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.037878+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:46:19.575058+00:00", "usn": 64351512, "segment_id": "24358#10", "path": 
+"c:\\<broken_reference_0x5ba5#21>\\winter_whether_advisory.zip", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.037878+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:46:19.809059+00:00", "usn": 64351632, "segment_id": "24358#10", "path": 
+"c:\\<broken_reference_0x5ba5#21>\\winter_whether_advisory.zip", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.037878+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:46:23.209866+00:00", "usn": 64351752, "segment_id": "24358#10", "path": 
+"c:\\<broken_reference_0x5ba5#21>\\winter_whether_advisory.zip", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.037878+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:46:23.209866+00:00", "usn": 64351872, "segment_id": "24358#10", "path": 
+"c:\\<broken_reference_0x5ba5#21>\\winter_whether_advisory.zip", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:50.037878+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:51:47.117851+00:00", "usn": 64364544, "segment_id": "24358#10", "path": 
+"c:\\<broken_reference_0x5ba5#21>\\winter_whether_advisory.zip", "reason": "SECURITY_CHANGE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.061183+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:51:47.117851+00:00", "usn": 64364664, "segment_id": "24358#10", "path": 
+"c:\\<broken_reference_0x5ba5#21>\\winter_whether_advisory.zip", "reason": "SECURITY_CHANGE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.061183+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.832161+00:00", "usn": 64375312, "segment_id": "74666#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Koala.jpg", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, 
+"_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.832161+00:00", "usn": 64375392, "segment_id": "74666#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Koala.jpg", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.832161+00:00", "usn": 64375472, "segment_id": "74666#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Koala.jpg", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.832161+00:00", "usn": 64375552, "segment_id": "74666#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Koala.jpg", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.832161+00:00", "usn": 64375632, "segment_id": "74666#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Koala.jpg", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.847761+00:00", "usn": 64376152, "segment_id": "74670#12", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Penguins.jpg", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 
+0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.847761+00:00", "usn": 64376240, "segment_id": "74670#12", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Penguins.jpg", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 
+2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.847761+00:00", "usn": 64376328, "segment_id": "74670#12", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Penguins.jpg", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.847761+00:00", "usn": 64376416, "segment_id": "74670#12", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Penguins.jpg", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.847761+00:00", "usn": 64376504, "segment_id": "74670#12", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Penguins.jpg", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.847761+00:00", "usn": 64376592, "segment_id": "74676#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Tulips.jpg", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, 
+"_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.847761+00:00", "usn": 64376672, "segment_id": "74676#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Tulips.jpg", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.847761+00:00", "usn": 64376752, "segment_id": "74676#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Tulips.jpg", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.863361+00:00", "usn": 64376832, "segment_id": "74676#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Tulips.jpg", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:52:46.863361+00:00", "usn": 64376912, "segment_id": "74676#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Tulips.jpg", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.068820+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:54:39.095768+00:00", "usn": 64379920, "segment_id": "20180#13", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "FILE_DELETE|CLOSE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:54:39.142567+00:00", "usn": 64380048, "segment_id": "20180#14", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:54:39.142567+00:00", "usn": 64380176, "segment_id": "20180#14", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:54:39.142567+00:00", "usn": 64380304, "segment_id": "20180#14", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:50.084509+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:54:46.568184+00:00", "usn": 64383168, "segment_id": "20180#14", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "FILE_DELETE|CLOSE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:54:46.568184+00:00", "usn": 64383296, "segment_id": "20180#15", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:54:46.568184+00:00", "usn": 64383424, "segment_id": "20180#15", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:54:46.568184+00:00", "usn": 64383552, "segment_id": "20180#15", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:50.084509+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64386328, "segment_id": "74754#14", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Koala.jpg", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64386408, "segment_id": "74754#14", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Koala.jpg", "reason": "FILE_CREATE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64386488, "segment_id": "74754#14", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Koala.jpg", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64386568, "segment_id": "74666#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Koala.jpg", "reason": "HARD_LINK_CHANGE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 
+0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64386648, "segment_id": "74666#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Koala.jpg", "reason": "HARD_LINK_CHANGE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64387168, "segment_id": "74754#16", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Penguins.jpg", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64387256, "segment_id": "74754#16", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Penguins.jpg", "reason": "FILE_CREATE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64387344, "segment_id": "74754#16", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Penguins.jpg", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64387432, "segment_id": "74670#12", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Penguins.jpg", "reason": "HARD_LINK_CHANGE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64387520, "segment_id": "74670#12", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Penguins.jpg", "reason": "HARD_LINK_CHANGE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64387608, "segment_id": "74754#17", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Tulips.jpg", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64387688, "segment_id": "74754#17", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Tulips.jpg", "reason": "FILE_CREATE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64387768, "segment_id": "74754#17", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Tulips.jpg", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64387848, "segment_id": "74676#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Tulips.jpg", "reason": "HARD_LINK_CHANGE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:55:15.244234+00:00", "usn": 64387928, "segment_id": "74676#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Tulips.jpg", "reason": "HARD_LINK_CHANGE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:57:20.730856+00:00", "usn": 64390472, "segment_id": "74666#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Koala.jpg", "reason": "HARD_LINK_CHANGE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:57:20.730856+00:00", "usn": 64390640, "segment_id": "74670#12", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Penguins.jpg", "reason": "HARD_LINK_CHANGE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T19:57:20.730856+00:00", "usn": 64390728, "segment_id": "74676#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Tulips.jpg", "reason": "HARD_LINK_CHANGE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.084509+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64395768, "segment_id": "74754#25", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Koala.jpg", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64395848, "segment_id": "74754#25", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Koala.jpg", "reason": "FILE_CREATE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64395928, "segment_id": "74754#25", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Koala.jpg", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64396008, "segment_id": "74666#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Koala.jpg", "reason": "HARD_LINK_CHANGE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 
+0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64396088, "segment_id": "74666#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Koala.jpg", "reason": "HARD_LINK_CHANGE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64396608, "segment_id": "74754#27", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Penguins.jpg", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64396696, "segment_id": "74754#27", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Penguins.jpg", "reason": "FILE_CREATE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64396784, "segment_id": "74754#27", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Penguins.jpg", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64396872, "segment_id": "74670#12", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Penguins.jpg", "reason": "HARD_LINK_CHANGE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64396960, "segment_id": "74670#12", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Penguins.jpg", "reason": "HARD_LINK_CHANGE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64397048, "segment_id": "74754#28", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Tulips.jpg", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64397128, "segment_id": "74754#28", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Tulips.jpg", "reason": "FILE_CREATE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64397208, "segment_id": "74754#28", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Tulips.jpg", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64397312, "segment_id": "74676#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Tulips.jpg", "reason": "HARD_LINK_CHANGE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:01:21.228880+00:00", "usn": 64397392, "segment_id": "74676#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Tulips.jpg", "reason": "HARD_LINK_CHANGE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, 
+"minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.100303+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:11:42.851774+00:00", "usn": 64408968, "segment_id": "74666#10", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Koala.jpg", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.116040+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:11:42.851774+00:00", "usn": 64410392, "segment_id": "74670#12", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Penguins.jpg", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.116040+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:11:42.851774+00:00", "usn": 64411096, "segment_id": "74676#10", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Tulips.jpg", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.116040+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:24:14.264696+00:00", "usn": 64417680, "segment_id": "21898#9", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Tulips.jpg", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.131882+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:24:14.264696+00:00", "usn": 64417792, "segment_id": "21898#9", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Tulips.jpg", "reason": "FILE_CREATE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.131882+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:24:14.264696+00:00", "usn": 64417872, "segment_id": "21898#9", "path": 
+"c:\\Users\\informant\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\Tulips.jpg", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.131882+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:40:55.645662+00:00", "usn": 64423928, "segment_id": "74768#4", "path": 
+"c:\\<broken_reference_0x12404#8>\\winter_whether_advisory.zip", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.140903+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:40:55.645662+00:00", "usn": 64424048, "segment_id": "74768#4", "path": 
+"c:\\<broken_reference_0x12404#8>\\winter_whether_advisory.zip", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", "attr": 
+"ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.140903+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:40:55.645662+00:00", "usn": 64424168, "segment_id": "74768#4", "path": 
+"c:\\<broken_reference_0x12404#8>\\winter_whether_advisory.zip", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.140903+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:40:55.676863+00:00", "usn": 64424288, "segment_id": "74768#4", "path": 
+"c:\\<broken_reference_0x12404#8>\\winter_whether_advisory.zip", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.140903+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:40:55.676863+00:00", "usn": 64424408, "segment_id": "74768#4", "path": 
+"c:\\<broken_reference_0x12404#8>\\winter_whether_advisory.zip", "reason": "DATA_OVERWRITE|DATA_EXTEND|FILE_CREATE|BASIC_INFO_CHANGE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:50.140903+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:43:20.101915+00:00", "usn": 64435328, "segment_id": "74768#4", "path": 
+"c:\\<broken_reference_0x12404#8>\\winter_whether_advisory.zip", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:50.157363+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:44:13.783821+00:00", "usn": 64438272, "segment_id": "20180#15", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "FILE_DELETE|CLOSE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.157363+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:44:13.783821+00:00", "usn": 64438400, "segment_id": "20180#16", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.157363+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:44:13.783821+00:00", "usn": 64438528, "segment_id": "20180#16", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.157363+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:44:13.783821+00:00", "usn": 64438656, "segment_id": "20180#16", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:50.157363+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:44:18.901833+00:00", "usn": 64442512, "segment_id": "20180#16", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "FILE_DELETE|CLOSE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.163181+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:44:18.901833+00:00", "usn": 64442640, "segment_id": "20180#17", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "FILE_CREATE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.163181+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:44:18.901833+00:00", "usn": 64442768, "segment_id": "20180#17", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 
+0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.163181+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:44:18.901833+00:00", "usn": 64442896, "segment_id": "20180#17", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\winter_whether_advisory.zip.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", 
+"security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": 
+"D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": "2026-10-20T07:42:50.163181+00:00", 
+"_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:47:22.018559+00:00", "usn": 64444544, "segment_id": "74756#9", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Koala.jpg.lnk", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.167503+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:47:22.018559+00:00", "usn": 64444632, "segment_id": "74756#9", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Koala.jpg.lnk", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.169508+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:47:22.018559+00:00", "usn": 64444720, "segment_id": "74756#9", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Koala.jpg.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.169508+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:47:30.469574+00:00", "usn": 64447704, "segment_id": "74770#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Tulips.jpg.lnk", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.173516+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:47:30.469574+00:00", "usn": 64447792, "segment_id": "74770#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Tulips.jpg.lnk", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.173516+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T20:47:30.469574+00:00", "usn": 64447880, "segment_id": "74770#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Tulips.jpg.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.173516+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T21:01:10.904057+00:00", "usn": 64454440, "segment_id": "74773#4", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Penguins.jpg.lnk", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.181273+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T21:01:10.904057+00:00", "usn": 64454536, "segment_id": "74773#4", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Penguins.jpg.lnk", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.181273+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T21:01:10.904057+00:00", "usn": 64454656, "segment_id": "74773#4", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Penguins.jpg.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.181273+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T21:01:12.869659+00:00", "usn": 64456880, "segment_id": "74756#9", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Koala.jpg.lnk", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.181273+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T21:01:12.900860+00:00", "usn": 64456968, "segment_id": "74756#10", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Koala.jpg.lnk", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.181273+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T21:01:12.900860+00:00", "usn": 64457056, "segment_id": "74756#10", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Koala.jpg.lnk", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.181273+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T21:01:12.900860+00:00", "usn": 64457144, "segment_id": "74756#10", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Koala.jpg.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.188197+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T21:01:14.320463+00:00", "usn": 64459480, "segment_id": "74770#5", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Tulips.jpg.lnk", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.190201+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T21:01:14.320463+00:00", "usn": 64459568, "segment_id": "74770#6", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Tulips.jpg.lnk", "reason": "FILE_CREATE", "security_id": 0, "source": "NORMAL", 
+"attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, 
+"_generated": "2026-10-20T07:42:50.190201+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T21:01:14.320463+00:00", "usn": 64459656, "segment_id": "74770#6", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Tulips.jpg.lnk", "reason": "DATA_EXTEND|FILE_CREATE", "security_id": 0, "source": 
+"NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.190201+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-24T21:01:14.320463+00:00", "usn": 64459744, "segment_id": "74770#6", "path": 
+"c:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Tulips.jpg.lnk", "reason": "DATA_EXTEND|FILE_CREATE|CLOSE", "security_id": 0, 
+"source": "NORMAL", "attr": "ARCHIVE", "major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", 
+"_classification": null, "_generated": "2026-10-20T07:42:50.190201+00:00", "_version": 1, "_type": "record", "_recorddescriptor": 
+["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-25T15:13:49.060204+00:00", "usn": 68289568, "segment_id": "74666#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Koala.jpg", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": "NOT_CONTENT_INDEXED", "major": 
+2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:55.590416+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-25T15:13:49.356604+00:00", "usn": 68296792, "segment_id": "74670#12", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Penguins.jpg", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": "NOT_CONTENT_INDEXED", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:55.604488+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-25T15:13:49.465805+00:00", "usn": 68300488, "segment_id": "74676#10", "path": 
+"c:\\<broken_reference_0x122a2#9>\\Tulips.jpg", "reason": "RENAME_OLD_NAME", "security_id": 0, "source": "NORMAL", "attr": "NOT_CONTENT_INDEXED", "major": 
+2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:55.609574+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+{"hostname": "INFORMANT-PC", "domain": null, "ts": "2015-03-25T15:14:45.095404+00:00", "usn": 68310224, "segment_id": "24358#10", "path": 
+"c:\\<broken_reference_0x5ba5#21>\\winter_whether_advisory.zip", "reason": "FILE_DELETE|CLOSE", "security_id": 0, "source": "NORMAL", "attr": "ARCHIVE", 
+"major": 2, "minor": 0, "_source": "D:\\RM\\cfreds_2015_data_leakage_pc.7z\\cfreds_2015_data_leakage_pc.dd", "_classification": null, "_generated": 
+"2026-10-20T07:42:55.624741+00:00", "_version": 1, "_type": "record", "_recorddescriptor": ["filesystem/ntfs/usnjrnl", 39635290]}
+
+

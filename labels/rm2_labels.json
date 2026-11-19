@@ -1,0 +1,385 @@
+{
+  "dataset": "NIST CFReDS Data Leakage Case",
+  "label_source": "leakage-answers.pdf (Last Saved 2018-07-23), Q53, Q54, Q55, Q59",
+  "note": "Label disusun dari dokumen NIST, bukan dari prediksi program. Jangan dibaca oleh analyze; hanya untuk evaluasi.",
+  "media_id": "USB02",
+  "copy_event_reported_by_nist": {
+    "direction": "PC -> RM#2",
+    "date": "2015-03-24",
+    "time_window": "09:58 ~ 10:00",
+    "timezone_note": "NIST menulis 'Timezone is applied'. Log lain di kasus ini memakai offset -04:00 (lihat Q52). Verifikasi zona waktu sebelum dipakai untuk evaluasi waktu.",
+    "nist_reference": "Q59"
+  },
+  "anti_forensics_rm2": {
+    "action": "quick format",
+    "nist_reference": "Q54"
+  },
+  "pair_labels_status": "BELUM: butuh lokasi file sumber di PC (NIST Q25/Q26) untuk membentuk pasangan pc_file_id:usb_file_id.",
+  "targets": [
+    {
+      "usb_file_id": "194657a4adb78a7a17ee1187e0447815065587f002c5ca032f37b75d2fdf2247",
+      "export_path": "$OrphanFiles/design/winter_storm.amr",
+      "sha256": "38b74ea134cad46638ee8c4e2069b6df3b82c2c8696b0845911a9cc0028cb937",
+      "size": 14547968,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "PPT",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "5d70f91c52663d739fa5a716e181aea7c6e1abb39f9425473046ce4edd76b731",
+      "export_path": "$OrphanFiles/design/winter_whether_advisory.zip",
+      "sha256": "e4281831fd9381afe19cdacccaa772bf756511b26b3107a041c3c1dc5c5d0e09",
+      "size": 16381123,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "PPTX",
+      "pc_jumplist_shellbag_nist_q55": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "31e002fdb708ccebf1836df4a10a4719ebaa8baa3566c34d9d94d6107ebd6ea2",
+      "export_path": "$OrphanFiles/PRICIN~1/my_favorite_cars.db",
+      "sha256": "c3a27848cc36843e2134581144cf400312a4c99bde3a8ca7a7299f1c69f5a037",
+      "size": 1260544,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "XLS",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "5743ede8467328d7188a5730a2b4e8fda137af3c61ebe0f7556c79c7e1b869fd",
+      "export_path": "$OrphanFiles/PRICIN~1/my_favorite_movies.7z",
+      "sha256": "a21c97be882a8926770fb667ad127e497a3c8879443c089e2477471d3d31a311",
+      "size": 100078,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "XLSX",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "a9034fda4f0f0a2c9f6fe41073e4704c881e2aa27b0aa394dc28a301b4599e7f",
+      "export_path": "$OrphanFiles/PRICIN~1/new_years_day.jpg",
+      "sha256": "61618ba90846a6114d1aa95166aa9bd24822288e4da7202992b8d6de858b048c",
+      "size": 10237535,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "XLSX",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "128c5d5d5846b284e9c4d0ddb39c007b87e9a4a081467bcda8816a4e645304f1",
+      "export_path": "$OrphanFiles/PRICIN~1/super_bowl.avi",
+      "sha256": "1ff92527560b82ad15b09854d3f91425e19c17c4bd5106e3ed8a833edb504e30",
+      "size": 10289152,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "XLS",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "a8ba4ffc5d413976e888a60e639ac3970e9d8de3a68b3b50bf58eb36b74debfc",
+      "export_path": "$OrphanFiles/progress/my_friends.svg",
+      "sha256": "47767b8a114ce027dfcbbecfa962f9cd0bb170eba6d70c4eb107c256ce01bac9",
+      "size": 58368,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "DOC",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "89e240dfbc7910e2478e016d34ec37724854c8c5db64fd4e9626d67a0a5ffb4f",
+      "export_path": "$OrphanFiles/progress/my_smartphone.png",
+      "sha256": "6303987dc29d0a329dacc007f313ea96fa2fd0c53e75b99c07372cb90bb20d84",
+      "size": 4440235,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "DOCX",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "57d76e75171600c6ede531e789a48eb6f7ee6aa7437362f4e85394ad3b0665af",
+      "export_path": "$OrphanFiles/progress/new_year_calendar.one",
+      "sha256": "7a620d5b3e25b0ca1acb82652fcb64c6c4f9c6a6bee918c281a2120bd095fd30",
+      "size": 27414,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "DOCX",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "fbbf84db520153ba909ad6dbe0bbe3f1ea97694ac2e8dd50a0e8f46128ca261b",
+      "export_path": "$OrphanFiles/proposal/a_gift_from_you.gif",
+      "sha256": "f80cddc25df52bd8cf3828659c15fee5afb9ca245844bd379f59f4265a470586",
+      "size": 35226880,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "DOCX",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "5f75f2a54a9c6d02e574f55a4e45c6fc6714cf9b07b38c20c94819f0cee536aa",
+      "export_path": "$OrphanFiles/proposal/landscape.png",
+      "sha256": "4e1cfaf1b9d18b9606c6ed04e9a96afe3ce919a1233500d5b82c936c4f773e6a",
+      "size": 6484502,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "DOCX",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "c2584d59e0fd3a79c25e0adedc2a0251f4d8d1ec564e2cdeb606324f077a3440",
+      "export_path": "$OrphanFiles/TECHNI~1/diary_#1d.txt",
+      "sha256": "54a73cf3ad1e0239ccb2bdf9809952f72e0cc2edbd5b46e9f7a8397b7fca8c4a",
+      "size": 121441,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "DOCX",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "bbf27f99625bac953c48d5c2a5eecbdd48f470c0bc7c08bdfd4482f1a8c9d2ca",
+      "export_path": "$OrphanFiles/TECHNI~1/diary_#1p.txt",
+      "sha256": "f4025d7dc0cc18ebefc72a699d1a71d84b386f7fa7ed3e86a1e39361e495d24f",
+      "size": 458267,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "PPTX",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "0f44d5d81a3380abd5732509f9b9fd1e32b503fe621a0fa342965aa1bc4bf640",
+      "export_path": "$OrphanFiles/TECHNI~1/diary_#2d.txt",
+      "sha256": "9b7ce225e972e28ec465b7f4e0b122ccb8b10c08251d77f7fcc5f7671ec7d220",
+      "size": 658922,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "DOCX",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "4318fdd749cb3d02614b9f414093b3d3c4b877dfde52e0559766fd8a94414fda",
+      "export_path": "$OrphanFiles/TECHNI~1/diary_#2p.txt",
+      "sha256": "008a205c975760a0d247501b001bb0070efd0dd0b0390a5de67cb3570fa75e64",
+      "size": 1154560,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "PPT",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "25580bcf5f6dc4996315944218c49492db14e77e5486d6adc30f93cc848b4b3d",
+      "export_path": "$OrphanFiles/TECHNI~1/diary_#3d.txt",
+      "sha256": "6e2717ad91c842df49e1209cb30d9ceb4bfc4ca60e90bc2504377a38165d47df",
+      "size": 2360832,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "DOC",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    },
+    {
+      "usb_file_id": "0a6a89e5c22c61551b6263fb9c6fe10d65e278441acb51387965681b0083f8d4",
+      "export_path": "$OrphanFiles/TECHNI~1/diary_#3p.txt",
+      "sha256": "c468256f18fd2a44c6456ef814930f6514b2def3ba6b9d08a4a4d1755f348cea",
+      "size": 325120,
+      "label": "target_copied_pc_to_rm2",
+      "real_format_nist_q53": "PPT",
+      "pc_jumplist_shellbag_nist_q55": null,
+      "nist_reference": "Q53, Q55"
+    }
+  ],
+  "negatives": [
+    {
+      "usb_file_id": "06b957631302005aacc4888ffe974732d7d6d6c0ce4138a0b6f0045a44282a04",
+      "export_path": "$OrphanFiles/amalfi.bmp",
+      "sha256": "8974bdfb6989ef7043f0a4097e1eba1a668a58072e3c1345de5877bad8bec58a",
+      "size": 921654,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "acd06764e0eacde6f8a4bcce299cbf4bdda25b0cef015c0be97c00438ae1a687",
+      "export_path": "$OrphanFiles/BAMBOO~1.GIF",
+      "sha256": "b1221b15f447595ba7c2fc9e51acd208b740407f6192e63e5dfc819ff6c42636",
+      "size": 6717692,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "52d3f59aad6528e9255e7acc9faa5874a700f8314df2c2e73a7596d00cf07500",
+      "export_path": "$OrphanFiles/barn.gif",
+      "sha256": "0fd4506cc4f9cdb8f7e52f249932edbfbbf63e5d946b70cab7b3ba328929777f",
+      "size": 3352929,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "aa27dde3f079f08f8b551ec47eb6bd51070f46a1f0620ba966e0fb8cdceabdd3",
+      "export_path": "$OrphanFiles/blini.gif",
+      "sha256": "c955c79c5877a94c652c71bc49e9e37c1bc2f50f374cc22361fa73e6b6d6d590",
+      "size": 2125114,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "4116fef3830820ae2e866241b06447f07c9abb06d73a74b259a3cdfe74dec426",
+      "export_path": "$OrphanFiles/boudicca.bmp",
+      "sha256": "47c3a279d6b4dea650250f6c60b8bff43119145f43285341713f036d782b0f56",
+      "size": 8798374,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "7cb7b49021a440495544d7d10fedd4ad366de47d6b4017e7961036e74d195cc3",
+      "export_path": "$OrphanFiles/cactus.png",
+      "sha256": "441140ca4307838f84d1ca18cfd5c6bb3fbb2306ca10e9a471ca181bab969c5f",
+      "size": 6164389,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "c77ffabebf8bfc5c1ba60142d7a47a86db371e822dd34c203d7a3474daa6caf4",
+      "export_path": "$OrphanFiles/cave.png",
+      "sha256": "fce965473a19de4e41450650167b00e5e95f558f103c7206a17ee0c434120db4",
+      "size": 8182655,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "8069522ccdfee0464b3cebb4a333a7b19f3d9fa092ddafa38043eb6576de14e4",
+      "export_path": "$OrphanFiles/CUTTY-~1.JPG",
+      "sha256": "abe21c5a405d8fdce72e4ce4289ac42c3a6209b8cdc2ce8d0931b023e1632a74",
+      "size": 1625241,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "5593aab67d74255aeeba78b8736cb27c9eb5e04079b25014402552d7dd29bb8c",
+      "export_path": "$OrphanFiles/desktop.ini",
+      "sha256": "e1b9ce9b57957b1a0607a72a057d6b7a9b34ea60f3f8aa8f38a3af979bd23066",
+      "size": 129,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "91ebaf9adfbf02dcdc079b93caff3f94a95b2a60d105a0e56401b893f9ff641e",
+      "export_path": "$OrphanFiles/eggs.gif",
+      "sha256": "3aa436c7e382196cde1065379d74bbb81cb534344e1fd7fb1e2b18f4689a5aa1",
+      "size": 2284125,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "8029210be0d75d9b28d04cb979ef62739fc119f7406f33d7bab12f1d6f256dbc",
+      "export_path": "$OrphanFiles/FORSYT~1.PNG",
+      "sha256": "e67279799a26a90cd7d3a63b243efa601aef7746db9ddf81c9ed43c7d1ec51ea",
+      "size": 8107995,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "a1c19734bb72a9092bbc4b6858a7d84b33ba6ef18bff226ffc574015fa3fa38a",
+      "export_path": "$OrphanFiles/injera.gif",
+      "sha256": "054730f64f5e3dc52633968a60248b58bc538179a1a4b7ec280c648eb32ac850",
+      "size": 34480,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "f1d9932dc450b6b6776093f459756d3f81c0022cd5dc399000746416f95290c1",
+      "export_path": "$OrphanFiles/JACK-O~1.TIF",
+      "sha256": "be87627437ad0e656f53d6143b572e3025a3634fb921455de2252912e3832071",
+      "size": 7545856,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "9170cd0c96a0ace1ad3936d32c54246ea8d3e6f0b763cf93bb369710e264f984",
+      "export_path": "$OrphanFiles/jump.jpg",
+      "sha256": "9143367a2901d2c1d1345e7714d2b228611e4544b37e8675e6b5bcba5a1786a0",
+      "size": 2015880,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "60b850ce415869891e9928ffffeb98de7d366c6b594bf410a4d65bdbaa336e40",
+      "export_path": "$OrphanFiles/leaf.jpg",
+      "sha256": "f44edd0411daf1e65c719481ff00442fed1a5f46c4a0e47c908d0e5e28960131",
+      "size": 798064,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "ebf31ee3ceab9535e144402b62152223c0339b908ee9deb64fc362909a744199",
+      "export_path": "$OrphanFiles/oak-snow.jpg",
+      "sha256": "f514694b87460328d4a5f9389aef2caab4a7118d58a909d4ae5248fe6922c65f",
+      "size": 1370140,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "abdf958b5d63b82c1f1280e87ae1c1a7087c3166ee4a6b367ab41fad61832f4c",
+      "export_path": "$OrphanFiles/orchid.png",
+      "sha256": "a6fed1ef2abfc17a7a9426ad30d3539a734ce18c25e5767c666383da95fec19e",
+      "size": 8455527,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "ed19e20f3023845dafe17ef1e5ec68766fc3b3cf6839c86b216fe1aee1757e85",
+      "export_path": "$OrphanFiles/PIAZZA~1.JPG",
+      "sha256": "42a42d465701694ad875af387fce09815481b5e40ddf87343fdd61a3898edd59",
+      "size": 1267394,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "e3890fab4713884d16d9f13f19d1a14889e579f3455160fad68e1d7c4998dffe",
+      "export_path": "$OrphanFiles/pisa.JPG",
+      "sha256": "57c3d2735f32c93f10c5bfa9812e0e0f4f7fcca8a26a6add9f746a50e55b7cc3",
+      "size": 847709,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "a26013289f74fa43aca27ed02f1678d2fab26eed21a261718b031bd712b41bdf",
+      "export_path": "$OrphanFiles/SPQR.JPG",
+      "sha256": "8bb4e4218e1a377748cd2e8afaf16e778492d1e096e4cf72d6418d8b18b1b52f",
+      "size": 897275,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "2f72b7ca4929dbac6aef922c0da5aa114988d119e7d3fcccecd6e9903ae05dc7",
+      "export_path": "$OrphanFiles/STONEH~1.JPG",
+      "sha256": "adc50664dca8589aa5542f1860794a2806b5ddebeddea6eb0ee74e701352039c",
+      "size": 1236401,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "be77dd1d80dc5b6f08efbc1211a9b58e42036ffb34c01542fc88266bb99ebaf1",
+      "export_path": "$OrphanFiles/tapas.gif",
+      "sha256": "7681d8768e09e08f98d0e6effe16603552aede26fe8cd4f00789beb9ebb1fdbf",
+      "size": 2242264,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "ac40a684264a9aeb1e283be9d804e6a9088848913328d5bba3b0ca4b270931dd",
+      "export_path": "$OrphanFiles/tomatoes.gif",
+      "sha256": "711cdc954d3658606e385fdd1c90119eed5f1504bf432540e6213e082280ef97",
+      "size": 2240548,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    },
+    {
+      "usb_file_id": "7ed19c008e36549163d51beaad9151c2de3f5e5bb53a2394770b40fbe7a03ed3",
+      "export_path": "$OrphanFiles/wat.gif",
+      "sha256": "d0cac6e480fb4e1bd42993a6426746758538ef87f740e6fef5930a0cebe4da17",
+      "size": 32186,
+      "label": "negative_not_related_to_scenario",
+      "nist_reference": "Q53 ('All other files do not have a relationship with this scenario')"
+    }
+  ],
+  "missing_targets": []
+}

@@ -1,0 +1,95 @@
+PANDUAN MENJALANKAN TAHAP LANJUTAN (melengkapi panduan teknis dosen)
+=====================================================================
+
+Kode dosen (usb_forensics.py) TIDAK diubah. Lima skrip ini hanya ditambahkan
+ke folder yang sama, seperti scan_pc_filtered.py sebelumnya.
+
+Pemetaan ke "Urutan kerja praktis" di README dosen:
+
+  README dosen                                   Status / skrip
+  ---------------------------------------------  ------------------------------
+  jalankan demo                                  SUDAH (unittest 15/15, demo.py)
+  ekstrak PC/RM#2                                SUDAH (WinRAR, mmls, tsk_recover)
+  audit ekspor                                   SUDAH (17/17 target vs seed)
+  inventaris/hash                                SUDAH (usb02.json, pc.json)
+  tandai file utuh (bagian 5)                    tahap_a_tandai_utuh.py
+  periksa artefak (bagian 6)                     SUDAH (Dissect pc-run2)
+  buat adapter (bagian 6-7)                      tahap_b_adapter.py
+  pemetaan perangkat + label (bagian 7, 9)       tahap_c_label_kasus.py
+  jalankan korelasi (bagian 7)                   tahap_d_korelasi.py
+  lakukan ablation + evaluasi (bagian 8-9)       tahap_e_eksperimen.py
+  tulis temuan dan batasannya                    setelah hasil keluar
+
+
+0. PERSIAPAN (sekali saja)
+--------------------------
+Ekstrak tahap_lanjutan.zip ke folder kode dosen:
+
+  Expand-Archive "$env:USERPROFILE\Downloads\tahap_lanjutan.zip" -DestinationPath "D:\RM\usb-forensics-starter\usb-forensics-starter" -Force
+  cd D:\RM\usb-forensics-starter\usb-forensics-starter
+  dir tahap_*.py
+
+Harus muncul 5 file tahap_a ... tahap_e.
+Pakai Python biasa (3.14). Tidak perlu mengaktifkan venv Dissect.
+Kalau prompt masih (.venv311), ketik:  deactivate
+
+
+1. TAHAP A - tandai file utuh (±1 menit)
+----------------------------------------
+  python tahap_a_tandai_utuh.py
+
+Harapan: "Ditandai complete : 17"
+Output : D:\RM\data\normalized\usb02_complete.json
+         D:\RM\data\normalized\usb02_complete_check.json
+
+
+2. TAHAP B - adapter artefak (±2-5 menit, $UsnJrnl dibaca dua kali)
+-------------------------------------------------------------------
+  python tahap_b_adapter.py
+
+Harapan: lima baris jumlah record (fs_usb, usnjrnl, jumplist, lnk, setupapi)
+Output : D:\RM\data\normalized\events.json
+         D:\RM\data\normalized\events_report.json
+         D:\RM\data\normalized\device_inventory.json
+
+
+3. TAHAP C - label kasus dan peta akuisisi (detik)
+--------------------------------------------------
+Cek dulu nomor seri di dokumen NIST (Ctrl+F "4C53").
+Kalau 4C530012550531106501 = RM#2 sudah cocok:
+
+  python tahap_c_label_kasus.py --serial-verified
+
+Kalau belum sempat dicek, jalankan tanpa --serial-verified
+(status akan tertulis NOT_YET_VERIFIED).
+
+Output : D:\RM\data\normalized\device_map.json
+         D:\RM\data\labels\case_labels.json
+
+
+4. TAHAP D - korelasi (detik)
+-----------------------------
+  python tahap_d_korelasi.py
+
+Harapan: pc_to_usb = 17, plus tabel pemetaan perangkat dan urutan kejadian
+Output : D:\RM\data\results\correlated.json
+
+
+5. TAHAP E - eksperimen + evaluasi (±1 menit)
+---------------------------------------------
+  python tahap_e_eksperimen.py
+
+Harapan: tabel baseline (nama / hash / gabungan) dan tabel skenario
+Output : D:\RM\data\results\eksperimen\baselines.json
+         D:\RM\data\results\eksperimen\experiments.csv
+         D:\RM\data\results\eksperimen\experiments_summary.json
+         D:\RM\data\results\eksperimen\correlated_full.json
+
+Kalau mau diulang, tambahkan:  --out-dir D:\RM\data\results\eksperimen2
+
+
+SETELAH SELESAI
+---------------
+Tempel ke chat: output layar tahap B, D, dan E.
+Kirim file: events_report.json, correlated.json, baselines.json,
+            experiments_summary.json

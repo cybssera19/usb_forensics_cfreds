@@ -1,0 +1,3364 @@
+{
+  "method": "artifact_correlation_v1",
+  "device_mapping": [
+    {
+      "image_id": "USB02",
+      "image": "cfreds_2015_data_leakage_rm#2.dd",
+      "serial_from_acquisition": "4C530012550531106501",
+      "acquisition_status": "verified_against_nist_documentation",
+      "pc_connection_records": [
+        {
+          "id": "setupapi:line56340",
+          "source": "Windows/inf/setupapi.dev.log (PC)",
+          "locator": "line 56340",
+          "time": "2015-03-24T13:58:32.859000+00:00",
+          "meaning": "device_first_install (hanya pemasangan pertama)"
+        }
+      ],
+      "drive_letters_seen_in_links": [
+        "E:"
+      ],
+      "image_links": [
+        {
+          "link": {
+            "id": "jumplist:line7:target_created",
+            "source": "artifact-1.jsonl (Dissect jumplist)",
+            "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+            "time": "2015-03-24T13:59:37.629999+00:00",
+            "meaning": "target_created_as_recorded_in_link"
+          },
+          "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+          "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+          "fat_created": {
+            "id": "fat:USB02:267:B",
+            "source": "fls body usb02_body.txt",
+            "locator": "line 8, inode 267",
+            "time": "2015-03-24T13:59:37+00:00",
+            "meaning": "fat_created"
+          },
+          "fat_modified": {
+            "id": "fat:USB02:267:M",
+            "source": "fls body usb02_body.txt",
+            "locator": "line 8, inode 267",
+            "time": "2014-12-16T16:10:26+00:00",
+            "meaning": "fat_modified"
+          }
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "usb_file_id": "06b957631302005aacc4888ffe974732d7d6d6c0ce4138a0b6f0045a44282a04",
+      "usb_path": "$OrphanFiles/amalfi.bmp",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760645:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 29, inode 5760645",
+          "time": "2015-03-23T20:55:17+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760645:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 29, inode 5760645",
+          "time": "2013-05-07T19:19:42+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "acd06764e0eacde6f8a4bcce299cbf4bdda25b0cef015c0be97c00438ae1a687",
+      "usb_path": "$OrphanFiles/BAMBOO~1.GIF",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760648:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 30, inode 5760648",
+          "time": "2015-03-23T20:55:17+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760648:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 30, inode 5760648",
+          "time": "2013-01-22T18:14:12+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "52d3f59aad6528e9255e7acc9faa5874a700f8314df2c2e73a7596d00cf07500",
+      "usb_path": "$OrphanFiles/barn.gif",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760649:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 31, inode 5760649",
+          "time": "2015-03-23T20:55:19+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760649:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 31, inode 5760649",
+          "time": "2013-01-22T18:17:38+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "aa27dde3f079f08f8b551ec47eb6bd51070f46a1f0620ba966e0fb8cdceabdd3",
+      "usb_path": "$OrphanFiles/blini.gif",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760650:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 32, inode 5760650",
+          "time": "2015-03-23T20:55:20+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760650:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 32, inode 5760650",
+          "time": "2013-05-07T19:09:52+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "4116fef3830820ae2e866241b06447f07c9abb06d73a74b259a3cdfe74dec426",
+      "usb_path": "$OrphanFiles/boudicca.bmp",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760651:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 33, inode 5760651",
+          "time": "2015-03-23T20:55:20+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760651:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 33, inode 5760651",
+          "time": "2013-05-07T18:48:44+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "7cb7b49021a440495544d7d10fedd4ad366de47d6b4017e7961036e74d195cc3",
+      "usb_path": "$OrphanFiles/cactus.png",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760652:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 34, inode 5760652",
+          "time": "2015-03-23T20:55:22+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760652:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 34, inode 5760652",
+          "time": "2013-01-22T18:19:20+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "c77ffabebf8bfc5c1ba60142d7a47a86db371e822dd34c203d7a3474daa6caf4",
+      "usb_path": "$OrphanFiles/cave.png",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760653:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 35, inode 5760653",
+          "time": "2015-03-23T20:55:24+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760653:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 35, inode 5760653",
+          "time": "2013-01-22T18:20:38+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "8069522ccdfee0464b3cebb4a333a7b19f3d9fa092ddafa38043eb6576de14e4",
+      "usb_path": "$OrphanFiles/CUTTY-~1.JPG",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760656:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 36, inode 5760656",
+          "time": "2015-03-23T20:55:26+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760656:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 36, inode 5760656",
+          "time": "2004-10-14T09:21:16+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "194657a4adb78a7a17ee1187e0447815065587f002c5ca032f37b75d2fdf2247",
+      "usb_path": "$OrphanFiles/design/winter_storm.amr",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:263:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 7, inode 263",
+          "time": "2015-03-24T13:59:27+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:263:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 7, inode 263",
+          "time": "2015-01-23T20:47:10+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:62477#6",
+          "earliest_name_seen": "[secret_project]_revised_points.ppt",
+          "names_seen": [
+            "[secret_project]_revised_points.ppt",
+            "winter_storm.amr"
+          ],
+          "name_acquired_utc": "2015-03-24T13:51:18.585245+00:00",
+          "created_on_pc_utc": "2015-03-24T13:40:10.337656+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.735329+00:00",
+          "evidence": [
+            {
+              "id": "usn:59802544",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221366, usn 59802544",
+              "time": "2015-03-24T13:50:08.118111+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59802640",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221367, usn 59802640",
+              "time": "2015-03-24T13:50:08.118111+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:59805792",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221398, usn 59805792",
+              "time": "2015-03-24T13:51:18.585245+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59805888",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221399, usn 59805888",
+              "time": "2015-03-24T13:51:18.585245+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60172040",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225085, usn 60172040",
+              "time": "2015-03-24T14:07:09.735329+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T13:59:29+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 56.141
+    },
+    {
+      "usb_file_id": "5d70f91c52663d739fa5a716e181aea7c6e1abb39f9425473046ce4edd76b731",
+      "usb_path": "$OrphanFiles/design/winter_whether_advisory.zip",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:267:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 8, inode 267",
+          "time": "2015-03-24T13:59:37+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:267:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 8, inode 267",
+          "time": "2014-12-16T16:10:26+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:48389#18",
+          "earliest_name_seen": "[secret_project]_detailed_design.pptx",
+          "names_seen": [
+            "[secret_project]_detailed_design.pptx",
+            "winter_whether_advisory.zip"
+          ],
+          "name_acquired_utc": "2015-03-24T13:51:18.585245+00:00",
+          "created_on_pc_utc": "2015-03-24T13:40:09.417253+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.735329+00:00",
+          "evidence": [
+            {
+              "id": "usn:59801816",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221359, usn 59801816",
+              "time": "2015-03-24T13:49:51.896881+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59801936",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221360, usn 59801936",
+              "time": "2015-03-24T13:49:51.896881+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:59806104",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221401, usn 59806104",
+              "time": "2015-03-24T13:51:18.585245+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59806224",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221402, usn 59806224",
+              "time": "2015-03-24T13:51:18.585245+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60172136",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225086, usn 60172136",
+              "time": "2015-03-24T14:07:09.735329+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T13:59:39+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 66.141
+    },
+    {
+      "usb_file_id": "5593aab67d74255aeeba78b8736cb27c9eb5e04079b25014402552d7dd29bb8c",
+      "usb_path": "$OrphanFiles/desktop.ini",
+      "media_id": "USB02",
+      "copy_pattern": "created_on_media",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:3256069:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 28, inode 3256069",
+          "time": "2015-03-24T19:51:47+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:3256069:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 28, inode 3256069",
+          "time": "2015-03-24T19:51:48+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "not_a_copy_created_on_media",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "91ebaf9adfbf02dcdc079b93caff3f94a95b2a60d105a0e56401b893f9ff641e",
+      "usb_path": "$OrphanFiles/eggs.gif",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760657:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 37, inode 5760657",
+          "time": "2015-03-23T20:55:27+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760657:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 37, inode 5760657",
+          "time": "2013-01-22T18:21:36+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "8029210be0d75d9b28d04cb979ef62739fc119f7406f33d7bab12f1d6f256dbc",
+      "usb_path": "$OrphanFiles/FORSYT~1.PNG",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760659:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 38, inode 5760659",
+          "time": "2015-03-23T20:55:27+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760659:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 38, inode 5760659",
+          "time": "2013-01-22T18:22:48+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "a1c19734bb72a9092bbc4b6858a7d84b33ba6ef18bff226ffc574015fa3fa38a",
+      "usb_path": "$OrphanFiles/injera.gif",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760660:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 39, inode 5760660",
+          "time": "2015-03-23T20:55:30+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760660:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 39, inode 5760660",
+          "time": "2013-05-07T19:10:20+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "f1d9932dc450b6b6776093f459756d3f81c0022cd5dc399000746416f95290c1",
+      "usb_path": "$OrphanFiles/JACK-O~1.TIF",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760663:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 40, inode 5760663",
+          "time": "2015-03-23T20:55:30+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760663:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 40, inode 5760663",
+          "time": "2013-05-07T19:37:56+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "9170cd0c96a0ace1ad3936d32c54246ea8d3e6f0b763cf93bb369710e264f984",
+      "usb_path": "$OrphanFiles/jump.jpg",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760664:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 41, inode 5760664",
+          "time": "2015-03-23T20:55:32+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760664:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 41, inode 5760664",
+          "time": "2013-03-17T22:01:24+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "60b850ce415869891e9928ffffeb98de7d366c6b594bf410a4d65bdbaa336e40",
+      "usb_path": "$OrphanFiles/leaf.jpg",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760665:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 42, inode 5760665",
+          "time": "2015-03-23T20:55:32+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760665:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 42, inode 5760665",
+          "time": "2010-01-24T19:44:20+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "ebf31ee3ceab9535e144402b62152223c0339b908ee9deb64fc362909a744199",
+      "usb_path": "$OrphanFiles/oak-snow.jpg",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760666:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 43, inode 5760666",
+          "time": "2015-03-23T20:55:32+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760666:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 43, inode 5760666",
+          "time": "2010-01-24T19:45:00+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "abdf958b5d63b82c1f1280e87ae1c1a7087c3166ee4a6b367ab41fad61832f4c",
+      "usb_path": "$OrphanFiles/orchid.png",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760667:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 44, inode 5760667",
+          "time": "2015-03-23T20:55:33+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760667:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 44, inode 5760667",
+          "time": "2013-01-22T18:30:24+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "ed19e20f3023845dafe17ef1e5ec68766fc3b3cf6839c86b216fe1aee1757e85",
+      "usb_path": "$OrphanFiles/PIAZZA~1.JPG",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760670:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 45, inode 5760670",
+          "time": "2015-03-23T20:55:35+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760670:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 45, inode 5760670",
+          "time": "2005-04-10T13:49:06+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "e3890fab4713884d16d9f13f19d1a14889e579f3455160fad68e1d7c4998dffe",
+      "usb_path": "$OrphanFiles/pisa.JPG",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760671:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 46, inode 5760671",
+          "time": "2015-03-23T20:55:35+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760671:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 46, inode 5760671",
+          "time": "2005-04-10T13:49:04+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "31e002fdb708ccebf1836df4a10a4719ebaa8baa3566c34d9d94d6107ebd6ea2",
+      "usb_path": "$OrphanFiles/PRICIN~1/my_favorite_cars.db",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:967047:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 10, inode 967047",
+          "time": "2015-03-24T13:59:39+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:967047:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 10, inode 967047",
+          "time": "2015-01-16T19:10:24+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:72050#10",
+          "earliest_name_seen": "(secret_project)_price_analysis_#2.xls",
+          "names_seen": [
+            "(secret_project)_price_analysis_#2.xls",
+            "my_favorite_cars.db"
+          ],
+          "name_acquired_utc": "2015-03-24T13:53:52.070747+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:58.446081+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.735329+00:00",
+          "evidence": [
+            {
+              "id": "usn:59816104",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221497, usn 59816104",
+              "time": "2015-03-24T13:53:52.070747+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59816208",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221498, usn 59816208",
+              "time": "2015-03-24T13:53:52.070747+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60172328",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225088, usn 60172328",
+              "time": "2015-03-24T14:07:09.735329+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T13:59:41+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 68.141
+    },
+    {
+      "usb_file_id": "5743ede8467328d7188a5730a2b4e8fda137af3c61ebe0f7556c79c7e1b869fd",
+      "usb_path": "$OrphanFiles/PRICIN~1/my_favorite_movies.7z",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:967050:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 11, inode 967050",
+          "time": "2015-03-24T13:59:39+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:967050:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 11, inode 967050",
+          "time": "2015-01-08T21:08:24+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:72049#8",
+          "earliest_name_seen": "(secret_project)_price_analysis_#1.xlsx",
+          "names_seen": [
+            "(secret_project)_price_analysis_#1.xlsx",
+            "my_favorite_movies.7z"
+          ],
+          "name_acquired_utc": "2015-03-24T13:53:38.854122+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:58.430481+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.735329+00:00",
+          "evidence": [
+            {
+              "id": "usn:59815680",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221493, usn 59815680",
+              "time": "2015-03-24T13:53:38.854122+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59815784",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221494, usn 59815784",
+              "time": "2015-03-24T13:53:38.854122+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60172432",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225089, usn 60172432",
+              "time": "2015-03-24T14:07:09.735329+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T13:59:41+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 68.141
+    },
+    {
+      "usb_file_id": "a9034fda4f0f0a2c9f6fe41073e4704c881e2aa27b0aa394dc28a301b4599e7f",
+      "usb_path": "$OrphanFiles/PRICIN~1/new_years_day.jpg",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:967053:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 12, inode 967053",
+          "time": "2015-03-24T13:59:39+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:967053:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 12, inode 967053",
+          "time": "2014-12-01T18:50:26+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:71801#7",
+          "earliest_name_seen": "(secret_project)_market_analysis.xlsx",
+          "names_seen": [
+            "(secret_project)_market_analysis.xlsx",
+            "new_years_day.jpg"
+          ],
+          "name_acquired_utc": "2015-03-24T13:52:56.999643+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:58.118479+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.735329+00:00",
+          "evidence": [
+            {
+              "id": "usn:59815040",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221487, usn 59815040",
+              "time": "2015-03-24T13:52:56.999643+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59815136",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221488, usn 59815136",
+              "time": "2015-03-24T13:52:56.999643+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60172536",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225090, usn 60172536",
+              "time": "2015-03-24T14:07:09.735329+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T13:59:41+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 68.141
+    },
+    {
+      "usb_file_id": "128c5d5d5846b284e9c4d0ddb39c007b87e9a4a081467bcda8816a4e645304f1",
+      "usb_path": "$OrphanFiles/PRICIN~1/super_bowl.avi",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:967056:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 13, inode 967056",
+          "time": "2015-03-24T13:59:40+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:967056:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 13, inode 967056",
+          "time": "2014-12-02T17:28:58+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:72048#9",
+          "earliest_name_seen": "(secret_project)_market_shares.xls",
+          "names_seen": [
+            "(secret_project)_market_shares.xls",
+            "super_bowl.avi"
+          ],
+          "name_acquired_utc": "2015-03-24T13:53:08.528465+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:58.305679+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.735329+00:00",
+          "evidence": [
+            {
+              "id": "usn:59815360",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221490, usn 59815360",
+              "time": "2015-03-24T13:53:08.528465+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59815448",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221491, usn 59815448",
+              "time": "2015-03-24T13:53:08.528465+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60172632",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225091, usn 60172632",
+              "time": "2015-03-24T14:07:09.735329+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T13:59:42+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 69.141
+    },
+    {
+      "usb_file_id": "a8ba4ffc5d413976e888a60e639ac3970e9d8de3a68b3b50bf58eb36b74debfc",
+      "usb_path": "$OrphanFiles/progress/my_friends.svg",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:1651335:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 15, inode 1651335",
+          "time": "2015-03-24T13:59:43+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:1651335:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 15, inode 1651335",
+          "time": "2015-01-20T15:13:44+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:74296#3",
+          "earliest_name_seen": "[secret_project]_progress_#3.doc",
+          "names_seen": [
+            "[secret_project]_progress_#3.doc",
+            "my_friends.svg"
+          ],
+          "name_acquired_utc": "2015-03-24T13:54:52.137070+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:58.555281+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.750929+00:00",
+          "evidence": [
+            {
+              "id": "usn:59818448",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221518, usn 59818448",
+              "time": "2015-03-24T13:54:52.137070+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59818536",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221519, usn 59818536",
+              "time": "2015-03-24T13:54:52.137070+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60172816",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225093, usn 60172816",
+              "time": "2015-03-24T14:07:09.750929+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T13:59:45+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 72.141
+    },
+    {
+      "usb_file_id": "89e240dfbc7910e2478e016d34ec37724854c8c5db64fd4e9626d67a0a5ffb4f",
+      "usb_path": "$OrphanFiles/progress/my_smartphone.png",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:1651338:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 16, inode 1651338",
+          "time": "2015-03-24T13:59:43+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:1651338:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 16, inode 1651338",
+          "time": "2015-01-05T15:57:22+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:74291#4",
+          "earliest_name_seen": "[secret_project]_progress_#1.docx",
+          "names_seen": [
+            "[secret_project]_progress_#1.docx",
+            "my_smartphone.png"
+          ],
+          "name_acquired_utc": "2015-03-24T13:54:23.989414+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:58.492882+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.750929+00:00",
+          "evidence": [
+            {
+              "id": "usn:59817008",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221506, usn 59817008",
+              "time": "2015-03-24T13:54:23.989414+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59817104",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221507, usn 59817104",
+              "time": "2015-03-24T13:54:23.989414+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60172904",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225094, usn 60172904",
+              "time": "2015-03-24T14:07:09.750929+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T13:59:45+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 72.141
+    },
+    {
+      "usb_file_id": "57d76e75171600c6ede531e789a48eb6f7ee6aa7437362f4e85394ad3b0665af",
+      "usb_path": "$OrphanFiles/progress/new_year_calendar.one",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:1651341:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 17, inode 1651341",
+          "time": "2015-03-24T13:59:44+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:1651341:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 17, inode 1651341",
+          "time": "2015-01-12T18:23:42+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:74295#6",
+          "earliest_name_seen": "[secret_project]_progress_#2.docx",
+          "names_seen": [
+            "[secret_project]_progress_#2.docx",
+            "new_year_calendar.one"
+          ],
+          "name_acquired_utc": "2015-03-24T13:54:43.133451+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:58.539680+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.750929+00:00",
+          "evidence": [
+            {
+              "id": "usn:59818112",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221515, usn 59818112",
+              "time": "2015-03-24T13:54:43.133451+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59818216",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221516, usn 59818216",
+              "time": "2015-03-24T13:54:43.133451+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60173000",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225095, usn 60173000",
+              "time": "2015-03-24T14:07:09.750929+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T13:59:46+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 73.141
+    },
+    {
+      "usb_file_id": "fbbf84db520153ba909ad6dbe0bbe3f1ea97694ac2e8dd50a0e8f46128ca261b",
+      "usb_path": "$OrphanFiles/proposal/a_gift_from_you.gif",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:1793159:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 19, inode 1793159",
+          "time": "2015-03-24T13:59:44+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:1793159:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 19, inode 1793159",
+          "time": "2014-12-18T21:50:58+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:62922#38",
+          "earliest_name_seen": "[secret_project]_detailed_proposal.docx",
+          "names_seen": [
+            "[secret_project]_detailed_proposal.docx",
+            "a_gift_from_you.gif"
+          ],
+          "name_acquired_utc": "2015-03-24T13:55:08.808901+00:00",
+          "created_on_pc_utc": "2015-03-24T13:40:11.133257+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.750929+00:00",
+          "evidence": [
+            {
+              "id": "usn:59818768",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221521, usn 59818768",
+              "time": "2015-03-24T13:55:08.808901+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59818872",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221522, usn 59818872",
+              "time": "2015-03-24T13:55:08.808901+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60173184",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225097, usn 60173184",
+              "time": "2015-03-24T14:07:09.750929+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T13:59:46+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 73.141
+    },
+    {
+      "usb_file_id": "5f75f2a54a9c6d02e574f55a4e45c6fc6714cf9b07b38c20c94819f0cee536aa",
+      "usb_path": "$OrphanFiles/proposal/landscape.png",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:1793161:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 20, inode 1793161",
+          "time": "2015-03-24T14:00:06+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:1793161:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 20, inode 1793161",
+          "time": "2014-12-19T19:53:46+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:71150#4",
+          "earliest_name_seen": "[secret_project]_detailed_proposal.docx",
+          "names_seen": [
+            "[secret_project]_detailed_proposal.docx",
+            "landscape.png"
+          ],
+          "name_acquired_utc": "2015-03-23T18:41:40.279314+00:00",
+          "created_on_pc_utc": "2015-03-23T18:39:35.158691+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.735329+00:00",
+          "evidence": [
+            {
+              "id": "usn:56306328",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 186621, usn 56306328",
+              "time": "2015-03-23T18:41:40.269314+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:56306416",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 186622, usn 56306416",
+              "time": "2015-03-23T18:41:40.279314+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60171848",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225083, usn 60171848",
+              "time": "2015-03-24T14:07:09.735329+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        },
+        {
+          "pc_entity": "pc-mft:62980#6",
+          "earliest_name_seen": "[secret_project]_proposal.docx",
+          "names_seen": [
+            "[secret_project]_proposal.docx",
+            "landscape.png"
+          ],
+          "name_acquired_utc": "2015-03-24T13:55:17.047716+00:00",
+          "created_on_pc_utc": "2015-03-24T13:40:13.161261+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.766529+00:00",
+          "evidence": [
+            {
+              "id": "usn:59819096",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221524, usn 59819096",
+              "time": "2015-03-24T13:55:17.047716+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59819184",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221525, usn 59819184",
+              "time": "2015-03-24T13:55:17.047716+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60173288",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225098, usn 60173288",
+              "time": "2015-03-24T14:07:09.766529+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T14:00:08+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 95.141
+    },
+    {
+      "usb_file_id": "a26013289f74fa43aca27ed02f1678d2fab26eed21a261718b031bd712b41bdf",
+      "usb_path": "$OrphanFiles/SPQR.JPG",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760672:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 47, inode 5760672",
+          "time": "2015-03-23T20:55:36+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760672:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 47, inode 5760672",
+          "time": "2004-10-14T09:21:24+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "2f72b7ca4929dbac6aef922c0da5aa114988d119e7d3fcccecd6e9903ae05dc7",
+      "usb_path": "$OrphanFiles/STONEH~1.JPG",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760675:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 48, inode 5760675",
+          "time": "2015-03-23T20:55:36+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760675:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 48, inode 5760675",
+          "time": "2004-10-14T09:21:20+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "be77dd1d80dc5b6f08efbc1211a9b58e42036ffb34c01542fc88266bb99ebaf1",
+      "usb_path": "$OrphanFiles/tapas.gif",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760676:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 49, inode 5760676",
+          "time": "2015-03-23T20:55:36+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760676:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 49, inode 5760676",
+          "time": "2013-05-07T19:11:10+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "c2584d59e0fd3a79c25e0adedc2a0251f4d8d1ec564e2cdeb606324f077a3440",
+      "usb_path": "$OrphanFiles/TECHNI~1/diary_#1d.txt",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:3096966:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 22, inode 3096966",
+          "time": "2015-03-24T14:00:12+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:3096966:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 22, inode 3096966",
+          "time": "2015-01-05T21:01:08+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:74300#7",
+          "earliest_name_seen": "[secret_project]_technical_review_#1.docx",
+          "names_seen": [
+            "[secret_project]_technical_review_#1.docx",
+            "diary_#1d.txt"
+          ],
+          "name_acquired_utc": "2015-03-24T13:55:32.087345+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:58.898481+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.766529+00:00",
+          "evidence": [
+            {
+              "id": "usn:59819416",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221527, usn 59819416",
+              "time": "2015-03-24T13:55:32.087345+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59819504",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221528, usn 59819504",
+              "time": "2015-03-24T13:55:32.087345+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60173456",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225100, usn 60173456",
+              "time": "2015-03-24T14:07:09.766529+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T14:00:14+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 101.141
+    },
+    {
+      "usb_file_id": "bbf27f99625bac953c48d5c2a5eecbdd48f470c0bc7c08bdfd4482f1a8c9d2ca",
+      "usb_path": "$OrphanFiles/TECHNI~1/diary_#1p.txt",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:3096968:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 23, inode 3096968",
+          "time": "2015-03-24T14:00:12+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:3096968:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 23, inode 3096968",
+          "time": "2015-01-05T19:15:08+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:74301#6",
+          "earliest_name_seen": "[secret_project]_technical_review_#1.pptx",
+          "names_seen": [
+            "[secret_project]_technical_review_#1.pptx",
+            "diary_#1p.txt"
+          ],
+          "name_acquired_utc": "2015-03-24T13:55:42.205364+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:58.929682+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.766529+00:00",
+          "evidence": [
+            {
+              "id": "usn:59819736",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221530, usn 59819736",
+              "time": "2015-03-24T13:55:42.205364+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59819824",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221531, usn 59819824",
+              "time": "2015-03-24T13:55:42.205364+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60173544",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225101, usn 60173544",
+              "time": "2015-03-24T14:07:09.766529+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T14:00:14+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 101.141
+    },
+    {
+      "usb_file_id": "0f44d5d81a3380abd5732509f9b9fd1e32b503fe621a0fa342965aa1bc4bf640",
+      "usb_path": "$OrphanFiles/TECHNI~1/diary_#2d.txt",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:3096970:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 24, inode 3096970",
+          "time": "2015-03-24T14:00:13+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:3096970:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 24, inode 3096970",
+          "time": "2015-01-12T21:25:40+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:74307#3",
+          "earliest_name_seen": "[secret_project]_technical_review_#2.docx",
+          "names_seen": [
+            "[secret_project]_technical_review_#2.docx",
+            "diary_#2d.txt"
+          ],
+          "name_acquired_utc": "2015-03-24T13:55:53.633389+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:58.945280+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.766529+00:00",
+          "evidence": [
+            {
+              "id": "usn:59820056",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221533, usn 59820056",
+              "time": "2015-03-24T13:55:53.633389+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59820144",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221534, usn 59820144",
+              "time": "2015-03-24T13:55:53.633389+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60173632",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225102, usn 60173632",
+              "time": "2015-03-24T14:07:09.766529+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T14:00:15+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 102.141
+    },
+    {
+      "usb_file_id": "4318fdd749cb3d02614b9f414093b3d3c4b877dfde52e0559766fd8a94414fda",
+      "usb_path": "$OrphanFiles/TECHNI~1/diary_#2p.txt",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:3096972:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 25, inode 3096972",
+          "time": "2015-03-24T14:00:14+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:3096972:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 25, inode 3096972",
+          "time": "2015-01-12T19:20:26+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:74308#4",
+          "earliest_name_seen": "[secret_project]_technical_review_#2.ppt",
+          "names_seen": [
+            "[secret_project]_technical_review_#2.ppt",
+            "diary_#2p.txt"
+          ],
+          "name_acquired_utc": "2015-03-24T13:56:09.431423+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:58.960880+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.766529+00:00",
+          "evidence": [
+            {
+              "id": "usn:59823424",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221571, usn 59823424",
+              "time": "2015-03-24T13:56:09.431423+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59823512",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221572, usn 59823512",
+              "time": "2015-03-24T13:56:09.431423+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60173720",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225103, usn 60173720",
+              "time": "2015-03-24T14:07:09.766529+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T14:00:16+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 103.141
+    },
+    {
+      "usb_file_id": "25580bcf5f6dc4996315944218c49492db14e77e5486d6adc30f93cc848b4b3d",
+      "usb_path": "$OrphanFiles/TECHNI~1/diary_#3d.txt",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:3096974:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 26, inode 3096974",
+          "time": "2015-03-24T14:00:15+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:3096974:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 26, inode 3096974",
+          "time": "2015-01-20T20:05:00+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:74309#3",
+          "earliest_name_seen": "[secret_project]_technical_review_#3.doc",
+          "names_seen": [
+            "[secret_project]_technical_review_#3.doc",
+            "diary_#3d.txt"
+          ],
+          "name_acquired_utc": "2015-03-24T13:56:14.509838+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:58.960880+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.766529+00:00",
+          "evidence": [
+            {
+              "id": "usn:59823744",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221574, usn 59823744",
+              "time": "2015-03-24T13:56:14.509838+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59823832",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221575, usn 59823832",
+              "time": "2015-03-24T13:56:14.509838+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60173808",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225104, usn 60173808",
+              "time": "2015-03-24T14:07:09.766529+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T14:00:17+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 104.141
+    },
+    {
+      "usb_file_id": "0a6a89e5c22c61551b6263fb9c6fe10d65e278441acb51387965681b0083f8d4",
+      "usb_path": "$OrphanFiles/TECHNI~1/diary_#3p.txt",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:3096976:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 27, inode 3096976",
+          "time": "2015-03-24T14:00:18+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:3096976:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 27, inode 3096976",
+          "time": "2015-01-20T18:18:06+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "pc_record_with_same_name_before_usb_creation",
+      "pc_candidates": [
+        {
+          "pc_entity": "pc-mft:74310#6",
+          "earliest_name_seen": "[secret_project]_technical_review_#3.ppt",
+          "names_seen": [
+            "[secret_project]_technical_review_#3.ppt",
+            "diary_#3p.txt"
+          ],
+          "name_acquired_utc": "2015-03-24T13:56:20.883055+00:00",
+          "created_on_pc_utc": "2015-03-24T13:47:59.007681+00:00",
+          "deleted_on_pc_utc": "2015-03-24T14:07:09.766529+00:00",
+          "evidence": [
+            {
+              "id": "usn:59824064",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221577, usn 59824064",
+              "time": "2015-03-24T13:56:20.883055+00:00",
+              "meaning": "usn:RENAME_NEW_NAME"
+            },
+            {
+              "id": "usn:59824152",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 221578, usn 59824152",
+              "time": "2015-03-24T13:56:20.883055+00:00",
+              "meaning": "usn:RENAME_NEW_NAME|CLOSE"
+            },
+            {
+              "id": "usn:60173896",
+              "source": "artifact-3.jsonl (Dissect usnjrnl, $UsnJrnl:$J PC)",
+              "locator": "line 225105, usn 60173896",
+              "time": "2015-03-24T14:07:09.766529+00:00",
+              "meaning": "usn:FILE_DELETE|CLOSE"
+            }
+          ]
+        }
+      ],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "connected_before_creation_and_image_linked",
+      "device_evidence": {
+        "connection": [
+          {
+            "id": "setupapi:line56340",
+            "source": "Windows/inf/setupapi.dev.log (PC)",
+            "locator": "line 56340",
+            "time": "2015-03-24T13:58:32.859000+00:00",
+            "meaning": "device_first_install (hanya pemasangan pertama)"
+          }
+        ],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "pc_to_usb",
+      "time_status": "bounded",
+      "time_interval_utc": [
+        "2015-03-24T13:58:32.859000+00:00",
+        "2015-03-24T14:00:20+00:00"
+      ],
+      "time_lower_basis": "device_connected",
+      "time_width_seconds": 107.141
+    },
+    {
+      "usb_file_id": "ac40a684264a9aeb1e283be9d804e6a9088848913328d5bba3b0ca4b270931dd",
+      "usb_path": "$OrphanFiles/tomatoes.gif",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760677:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 50, inode 5760677",
+          "time": "2015-03-23T20:55:37+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760677:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 50, inode 5760677",
+          "time": "2013-05-07T19:10:50+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    },
+    {
+      "usb_file_id": "7ed19c008e36549163d51beaad9151c2de3f5e5bb53a2394770b40fbe7a03ed3",
+      "usb_path": "$OrphanFiles/wat.gif",
+      "media_id": "USB02",
+      "copy_pattern": "modified_before_created",
+      "copy_pattern_evidence": [
+        {
+          "id": "fat:USB02:5760678:B",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 51, inode 5760678",
+          "time": "2015-03-23T20:55:37+00:00",
+          "meaning": "fat_created"
+        },
+        {
+          "id": "fat:USB02:5760678:M",
+          "source": "fls body usb02_body.txt",
+          "locator": "line 51, inode 5760678",
+          "time": "2013-05-07T19:12:28+00:00",
+          "meaning": "fat_modified"
+        }
+      ],
+      "pc_identity_status": "no_pc_record_found",
+      "pc_candidates": [],
+      "device_serial_from_acquisition": "4C530012550531106501",
+      "device_status": "image_linked_no_connection_record",
+      "device_evidence": {
+        "connection": [],
+        "image_links": [
+          {
+            "link": {
+              "id": "jumplist:line7:target_created",
+              "source": "artifact-1.jsonl (Dissect jumplist)",
+              "locator": "line 7, C:\\Users\\informant\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\1b4dd67f29cb1962.automaticDestinations-ms",
+              "time": "2015-03-24T13:59:37.629999+00:00",
+              "meaning": "target_created_as_recorded_in_link"
+            },
+            "path": "E:\\Secret Project Data\\design\\winter_whether_advisory.zip",
+            "usb_file": "$OrphanFiles/design/winter_whether_advisory.zip",
+            "fat_created": {
+              "id": "fat:USB02:267:B",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2015-03-24T13:59:37+00:00",
+              "meaning": "fat_created"
+            },
+            "fat_modified": {
+              "id": "fat:USB02:267:M",
+              "source": "fls body usb02_body.txt",
+              "locator": "line 8, inode 267",
+              "time": "2014-12-16T16:10:26+00:00",
+              "meaning": "fat_modified"
+            }
+          }
+        ]
+      },
+      "direction": "direction_unknown",
+      "time_status": "time_unknown",
+      "time_interval_utc": null
+    }
+  ],
+  "event_times_utc": {
+    "pc_ingest": "2015-03-24T13:40:09.417253+00:00",
+    "pc_rename": "2015-03-24T13:49:51.896881+00:00",
+    "device_connect": "2015-03-24T13:58:32.859000+00:00",
+    "usb_copy": "2015-03-24T13:59:27+00:00",
+    "pc_delete": "2015-03-24T14:07:09.766529+00:00"
+  }
+}

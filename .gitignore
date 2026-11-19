@@ -1,0 +1,40 @@
+# Data NIST dan image forensik (besar; unduh dari NIST)
+*.dd
+*.E01
+*.7z
+*.7z.0*
+*.zip
+data/
+exports/
+extract/
+artifacts/
+normalized/
+
+# Keluaran run
+out/
+rerun_out/
+rerun4_out/
+data_ulang*/
+logs/
+*.log
+*.bak
+# masukan Percobaan 2 yang memang harus ikut
+!percobaan2/input_dissect/setupapi.dev.log
+
+# Lingkungan Python
+__pycache__/
+*.pyc
+.venv*/
+venv*/
+.env
+
+# Konfigurasi lokal prototipe web
+tools/web_prototype/config.json
+tools/web_prototype/out/
+tools/web_prototype/state/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

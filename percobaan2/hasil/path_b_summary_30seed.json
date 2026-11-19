@@ -1,0 +1,245 @@
+{
+ "roots_total": 744,
+ "roots_per_group": {
+  "usn": 327,
+  "shellbag": 125,
+  "jumplist": 85,
+  "lnk": 207
+ },
+ "scenarios": {
+  "reference": {
+   "correct": 6,
+   "inconclusive": 0,
+   "missed": 0,
+   "wrong": 0,
+   "borrowed": 0,
+   "runs": 1,
+   "runs_with_any_wrong": 0,
+   "per_op_correct_rate": {
+    "op1": 1.0,
+    "op1b": 1.0,
+    "op2": 1.0,
+    "op3": 1.0,
+    "op4": 1.0,
+    "op5": 1.0
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "without_usn": {
+   "correct": 1,
+   "inconclusive": 0,
+   "missed": 4,
+   "wrong": 0,
+   "borrowed": 1,
+   "runs": 1,
+   "runs_with_any_wrong": 0,
+   "per_op_correct_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.0,
+    "op4": 1.0,
+    "op5": 0.0
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "without_shellbag": {
+   "correct": 3,
+   "inconclusive": 2,
+   "missed": 0,
+   "wrong": 0,
+   "borrowed": 1,
+   "runs": 1,
+   "runs_with_any_wrong": 0,
+   "per_op_correct_rate": {
+    "op1": 1.0,
+    "op1b": 1.0,
+    "op2": 0.0,
+    "op3": 1.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "without_jumplist": {
+   "correct": 4,
+   "inconclusive": 1,
+   "missed": 0,
+   "wrong": 1,
+   "borrowed": 0,
+   "runs": 1,
+   "runs_with_any_wrong": 1,
+   "per_op_correct_rate": {
+    "op1": 1.0,
+    "op1b": 0.0,
+    "op2": 1.0,
+    "op3": 0.0,
+    "op4": 1.0,
+    "op5": 1.0
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 1.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "without_lnk": {
+   "correct": 5,
+   "inconclusive": 1,
+   "missed": 0,
+   "wrong": 0,
+   "borrowed": 0,
+   "runs": 1,
+   "runs_with_any_wrong": 0,
+   "per_op_correct_rate": {
+    "op1": 0.0,
+    "op1b": 1.0,
+    "op2": 1.0,
+    "op3": 1.0,
+    "op4": 1.0,
+    "op5": 1.0
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "random_10": {
+   "correct": 6,
+   "inconclusive": 0,
+   "missed": 0,
+   "wrong": 0,
+   "borrowed": 0,
+   "runs": 30,
+   "runs_with_any_wrong": 0,
+   "per_op_correct_rate": {
+    "op1": 1.0,
+    "op1b": 1.0,
+    "op2": 1.0,
+    "op3": 1.0,
+    "op4": 1.0,
+    "op5": 1.0
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "random_30": {
+   "correct": 5.4,
+   "inconclusive": 0.23333333333333334,
+   "missed": 0,
+   "wrong": 0.2,
+   "borrowed": 0.16666666666666666,
+   "runs": 30,
+   "runs_with_any_wrong": 6,
+   "per_op_correct_rate": {
+    "op1": 0.9333333333333333,
+    "op1b": 0.8666666666666667,
+    "op2": 0.9666666666666667,
+    "op3": 0.8,
+    "op4": 0.8333333333333334,
+    "op5": 1.0
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.2,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "random_50": {
+   "correct": 4,
+   "inconclusive": 0.8333333333333334,
+   "missed": 0.06666666666666667,
+   "wrong": 0.43333333333333335,
+   "borrowed": 0.6666666666666666,
+   "runs": 30,
+   "runs_with_any_wrong": 12,
+   "per_op_correct_rate": {
+    "op1": 0.6666666666666666,
+    "op1b": 0.7,
+    "op2": 0.8666666666666667,
+    "op3": 0.5333333333333333,
+    "op4": 0.3333333333333333,
+    "op5": 0.9
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.4,
+    "op4": 0.0,
+    "op5": 0.03333333333333333
+   },
+   "op4_names_mean": 1
+  },
+  "random_70": {
+   "correct": 2.066666666666667,
+   "inconclusive": 1.9,
+   "missed": 0.6333333333333333,
+   "wrong": 0.4,
+   "borrowed": 1,
+   "runs": 30,
+   "runs_with_any_wrong": 12,
+   "per_op_correct_rate": {
+    "op1": 0.43333333333333335,
+    "op1b": 0.23333333333333334,
+    "op2": 0.5666666666666667,
+    "op3": 0.26666666666666666,
+    "op4": 0.0,
+    "op5": 0.5666666666666667
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.4,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  }
+ }
+}

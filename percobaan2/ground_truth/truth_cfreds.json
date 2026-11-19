@@ -1,0 +1,102 @@
+{
+  "source": "NIST CFReDS Data Leakage Case, leakage-answers.pdf (2018-07-23)",
+  "local_tz": "America/New_York (UTC-4 pada Maret 2015)",
+  "devices": {
+    "RM#1": {
+      "serial": "4C530012450531101593",
+      "fs": "exFAT",
+      "first_connected_local": "2015-03-23 14:31:10"
+    },
+    "RM#2": {
+      "serial": "4C530012550531106501",
+      "fs": "FAT32",
+      "first_connected_local": "2015-03-24 09:58:32"
+    },
+    "RM#3": {
+      "type": "CD-R"
+    }
+  },
+  "operations": [
+    {
+      "id": "op1",
+      "direction": "usb_to_pc",
+      "device": "RM#1",
+      "local": "2015-03-23 14:39",
+      "files": [
+        "[secret_project]_proposal.docx",
+        "[secret_project]_design_concept.ppt"
+      ]
+    },
+    {
+      "id": "op1b",
+      "direction": "network_to_pc",
+      "device": "network drive \\\\10.11.11.128 (V:)",
+      "local": "2015-03-23 16:28",
+      "files": [
+        "(secret_project)_pricing_decision.xlsx",
+        "[secret_project]_final_meeting.pptx"
+      ],
+      "note": "bukan USB"
+    },
+    {
+      "id": "op2",
+      "direction": "usb_to_pc",
+      "device": "RM#1",
+      "local": "2015-03-24 09:40",
+      "files": [
+        "[secret_project]_design_concept.ppt",
+        "[secret_project]_detailed_design.pptx",
+        "[secret_project]_revised_points.ppt",
+        "[secret_project]_detailed_proposal.docx",
+        "[secret_project]_proposal.docx"
+      ]
+    },
+    {
+      "id": "op3",
+      "direction": "network_to_pc",
+      "device": "network drive \\\\10.11.11.128",
+      "local": "2015-03-24 09:47",
+      "files_count": 20,
+      "note": "bukan USB; pola USN sama dengan salinan USB"
+    },
+    {
+      "id": "op4",
+      "direction": "pc_to_usb",
+      "device": "RM#2",
+      "local": "2015-03-24 09:59",
+      "files": [
+        "winter_storm.amr",
+        "winter_whether_advisory.zip",
+        "my_favorite_cars.db",
+        "my_favorite_movies.7z",
+        "new_years_day.jpg",
+        "super_bowl.avi",
+        "my_friends.svg",
+        "my_smartphone.png",
+        "new_year_calendar.one",
+        "a_gift_from_you.gif",
+        "landscape.png",
+        "diary_#1d.txt",
+        "diary_#1p.txt",
+        "diary_#2d.txt",
+        "diary_#2p.txt",
+        "diary_#3d.txt",
+        "diary_#3p.txt"
+      ],
+      "note": "nama sudah diacak; PC hanya punya jejak untuk winter_whether_advisory.zip (JumpList/ShellBag, jejak 'dibuka'); 16 dari 17 file tanpa jejak di PC (Q55)"
+    },
+    {
+      "id": "op5",
+      "direction": "pc_to_cd",
+      "device": "RM#3",
+      "local": "2015-03-24 16:40-16:54",
+      "note": "pembakaran CD-R lewat folder Burn"
+    }
+  ],
+  "expected_labels_pc_only": {
+    "op1": "Copy Strongly Supported",
+    "op2": "Copy Strongly Supported",
+    "op3": "bukan USB",
+    "op4": "Inconclusive/Copy Suspected (hanya 1 dari 17 file terlacak)"
+  }
+}

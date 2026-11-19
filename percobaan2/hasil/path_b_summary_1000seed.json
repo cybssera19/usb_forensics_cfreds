@@ -1,0 +1,245 @@
+{
+ "roots_total": 744,
+ "roots_per_group": {
+  "usn": 327,
+  "shellbag": 125,
+  "jumplist": 85,
+  "lnk": 207
+ },
+ "scenarios": {
+  "reference": {
+   "correct": 6,
+   "inconclusive": 0,
+   "missed": 0,
+   "wrong": 0,
+   "borrowed": 0,
+   "runs": 1,
+   "runs_with_any_wrong": 0,
+   "per_op_correct_rate": {
+    "op1": 1.0,
+    "op1b": 1.0,
+    "op2": 1.0,
+    "op3": 1.0,
+    "op4": 1.0,
+    "op5": 1.0
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "without_usn": {
+   "correct": 1,
+   "inconclusive": 0,
+   "missed": 4,
+   "wrong": 0,
+   "borrowed": 1,
+   "runs": 1,
+   "runs_with_any_wrong": 0,
+   "per_op_correct_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.0,
+    "op4": 1.0,
+    "op5": 0.0
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "without_shellbag": {
+   "correct": 3,
+   "inconclusive": 2,
+   "missed": 0,
+   "wrong": 0,
+   "borrowed": 1,
+   "runs": 1,
+   "runs_with_any_wrong": 0,
+   "per_op_correct_rate": {
+    "op1": 1.0,
+    "op1b": 1.0,
+    "op2": 0.0,
+    "op3": 1.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "without_jumplist": {
+   "correct": 4,
+   "inconclusive": 1,
+   "missed": 0,
+   "wrong": 1,
+   "borrowed": 0,
+   "runs": 1,
+   "runs_with_any_wrong": 1,
+   "per_op_correct_rate": {
+    "op1": 1.0,
+    "op1b": 0.0,
+    "op2": 1.0,
+    "op3": 0.0,
+    "op4": 1.0,
+    "op5": 1.0
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 1.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "without_lnk": {
+   "correct": 5,
+   "inconclusive": 1,
+   "missed": 0,
+   "wrong": 0,
+   "borrowed": 0,
+   "runs": 1,
+   "runs_with_any_wrong": 0,
+   "per_op_correct_rate": {
+    "op1": 0.0,
+    "op1b": 1.0,
+    "op2": 1.0,
+    "op3": 1.0,
+    "op4": 1.0,
+    "op5": 1.0
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.0,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "random_10": {
+   "correct": 5.949,
+   "inconclusive": 0.033,
+   "missed": 0.002,
+   "wrong": 0.013,
+   "borrowed": 0.003,
+   "runs": 1000,
+   "runs_with_any_wrong": 13,
+   "per_op_correct_rate": {
+    "op1": 0.993,
+    "op1b": 0.985,
+    "op2": 0.989,
+    "op3": 0.987,
+    "op4": 0.997,
+    "op5": 0.998
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.013,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "random_30": {
+   "correct": 5.295,
+   "inconclusive": 0.325,
+   "missed": 0.027,
+   "wrong": 0.108,
+   "borrowed": 0.245,
+   "runs": 1000,
+   "runs_with_any_wrong": 108,
+   "per_op_correct_rate": {
+    "op1": 0.875,
+    "op1b": 0.89,
+    "op2": 0.916,
+    "op3": 0.885,
+    "op4": 0.755,
+    "op5": 0.974
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.108,
+    "op4": 0.0,
+    "op5": 0.0
+   },
+   "op4_names_mean": 1
+  },
+  "random_50": {
+   "correct": 3.806,
+   "inconclusive": 1.031,
+   "missed": 0.148,
+   "wrong": 0.268,
+   "borrowed": 0.747,
+   "runs": 1000,
+   "runs_with_any_wrong": 266,
+   "per_op_correct_rate": {
+    "op1": 0.638,
+    "op1b": 0.658,
+    "op2": 0.741,
+    "op3": 0.641,
+    "op4": 0.253,
+    "op5": 0.875
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.266,
+    "op4": 0.0,
+    "op5": 0.002
+   },
+   "op4_names_mean": 1
+  },
+  "random_70": {
+   "correct": 2.206,
+   "inconclusive": 1.916,
+   "missed": 0.558,
+   "wrong": 0.337,
+   "borrowed": 0.983,
+   "runs": 1000,
+   "runs_with_any_wrong": 337,
+   "per_op_correct_rate": {
+    "op1": 0.347,
+    "op1b": 0.375,
+    "op2": 0.52,
+    "op3": 0.333,
+    "op4": 0.021,
+    "op5": 0.61
+   },
+   "per_op_wrong_rate": {
+    "op1": 0.0,
+    "op1b": 0.0,
+    "op2": 0.0,
+    "op3": 0.336,
+    "op4": 0.0,
+    "op5": 0.001
+   },
+   "op4_names_mean": 0.979
+  }
+ }
+}

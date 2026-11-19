@@ -1,0 +1,1703 @@
+{
+  "acuan": {
+    "runs": 1,
+    "fraction": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "records_removed": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "records_total": {
+      "mean": 541,
+      "min": 541,
+      "max": 541,
+      "n_null": 0
+    },
+    "roots_total": {
+      "mean": 499,
+      "min": 499,
+      "max": 499,
+      "n_null": 0
+    },
+    "tp": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "fp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fn": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "precision": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "recall": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "device_correct": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "device_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_unknown": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_accuracy": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "direction_correct": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "direction_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_unknown": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_accuracy": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "time_consistent": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "time_inconsistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_unknown": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_coverage": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "time_width_median_s": {
+      "mean": 73.141,
+      "min": 73.141,
+      "max": 73.141,
+      "n_null": 0
+    },
+    "order_correct_pairs": {
+      "mean": 10,
+      "min": 10,
+      "max": 10,
+      "n_null": 0
+    },
+    "order_wrong_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_unknown_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_accuracy": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    }
+  },
+  "tanpa_content": {
+    "runs": 1,
+    "fraction": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "records_removed": {
+      "mean": 41,
+      "min": 41,
+      "max": 41,
+      "n_null": 0
+    },
+    "records_total": {
+      "mean": 541,
+      "min": 541,
+      "max": 541,
+      "n_null": 0
+    },
+    "roots_total": {
+      "mean": 499,
+      "min": 499,
+      "max": 499,
+      "n_null": 0
+    },
+    "tp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fn": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "recall": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "device_correct": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_unknown": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "device_accuracy": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "direction_correct": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_unknown": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "direction_accuracy": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "time_consistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_inconsistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_unknown": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "time_coverage": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "order_correct_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_wrong_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_unknown_pairs": {
+      "mean": 10,
+      "min": 10,
+      "max": 10,
+      "n_null": 0
+    },
+    "order_accuracy": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    }
+  },
+  "tanpa_fs_usb": {
+    "runs": 1,
+    "fraction": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "records_removed": {
+      "mean": 82,
+      "min": 82,
+      "max": 82,
+      "n_null": 0
+    },
+    "records_total": {
+      "mean": 541,
+      "min": 541,
+      "max": 541,
+      "n_null": 0
+    },
+    "roots_total": {
+      "mean": 499,
+      "min": 499,
+      "max": 499,
+      "n_null": 0
+    },
+    "tp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fn": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "recall": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "device_correct": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_unknown": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "device_accuracy": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "direction_correct": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_unknown": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "direction_accuracy": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "time_consistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_inconsistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_unknown": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "time_coverage": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "order_correct_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_wrong_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_unknown_pairs": {
+      "mean": 10,
+      "min": 10,
+      "max": 10,
+      "n_null": 0
+    },
+    "order_accuracy": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    }
+  },
+  "tanpa_usnjrnl": {
+    "runs": 1,
+    "fraction": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "records_removed": {
+      "mean": 412,
+      "min": 412,
+      "max": 412,
+      "n_null": 0
+    },
+    "records_total": {
+      "mean": 541,
+      "min": 541,
+      "max": 541,
+      "n_null": 0
+    },
+    "roots_total": {
+      "mean": 499,
+      "min": 499,
+      "max": 499,
+      "n_null": 0
+    },
+    "tp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fn": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "recall": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "device_correct": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "device_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_unknown": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_accuracy": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "direction_correct": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_unknown": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "direction_accuracy": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "time_consistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_inconsistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_unknown": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "time_coverage": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "order_correct_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_wrong_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_unknown_pairs": {
+      "mean": 10,
+      "min": 10,
+      "max": 10,
+      "n_null": 0
+    },
+    "order_accuracy": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    }
+  },
+  "tanpa_jumplist": {
+    "runs": 1,
+    "fraction": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "records_removed": {
+      "mean": 2,
+      "min": 2,
+      "max": 2,
+      "n_null": 0
+    },
+    "records_total": {
+      "mean": 541,
+      "min": 541,
+      "max": 541,
+      "n_null": 0
+    },
+    "roots_total": {
+      "mean": 499,
+      "min": 499,
+      "max": 499,
+      "n_null": 0
+    },
+    "tp": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "fp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fn": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "precision": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "recall": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "device_correct": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "device_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_unknown": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_accuracy": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "direction_correct": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "direction_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_unknown": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_accuracy": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "time_consistent": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "time_inconsistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_unknown": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_coverage": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "time_width_median_s": {
+      "mean": 73.141,
+      "min": 73.141,
+      "max": 73.141,
+      "n_null": 0
+    },
+    "order_correct_pairs": {
+      "mean": 10,
+      "min": 10,
+      "max": 10,
+      "n_null": 0
+    },
+    "order_wrong_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_unknown_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_accuracy": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    }
+  },
+  "tanpa_lnk": {
+    "runs": 1,
+    "fraction": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "records_removed": {
+      "mean": 2,
+      "min": 2,
+      "max": 2,
+      "n_null": 0
+    },
+    "records_total": {
+      "mean": 541,
+      "min": 541,
+      "max": 541,
+      "n_null": 0
+    },
+    "roots_total": {
+      "mean": 499,
+      "min": 499,
+      "max": 499,
+      "n_null": 0
+    },
+    "tp": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "fp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fn": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "precision": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "recall": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "device_correct": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "device_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_unknown": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_accuracy": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "direction_correct": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "direction_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_unknown": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_accuracy": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "time_consistent": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "time_inconsistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_unknown": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_coverage": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "time_width_median_s": {
+      "mean": 73.141,
+      "min": 73.141,
+      "max": 73.141,
+      "n_null": 0
+    },
+    "order_correct_pairs": {
+      "mean": 10,
+      "min": 10,
+      "max": 10,
+      "n_null": 0
+    },
+    "order_wrong_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_unknown_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_accuracy": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    }
+  },
+  "tanpa_setupapi": {
+    "runs": 1,
+    "fraction": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "records_removed": {
+      "mean": 2,
+      "min": 2,
+      "max": 2,
+      "n_null": 0
+    },
+    "records_total": {
+      "mean": 541,
+      "min": 541,
+      "max": 541,
+      "n_null": 0
+    },
+    "roots_total": {
+      "mean": 499,
+      "min": 499,
+      "max": 499,
+      "n_null": 0
+    },
+    "tp": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "fp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fn": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "precision": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "recall": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "device_correct": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_unknown": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "device_accuracy": {
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n_null": 0
+    },
+    "direction_correct": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "direction_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_unknown": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_accuracy": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "time_consistent": {
+      "mean": 17,
+      "min": 17,
+      "max": 17,
+      "n_null": 0
+    },
+    "time_inconsistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_unknown": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_coverage": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "time_width_median_s": {
+      "mean": 292.86293,
+      "min": 292.86293,
+      "max": 292.86293,
+      "n_null": 0
+    },
+    "order_correct_pairs": {
+      "mean": 6,
+      "min": 6,
+      "max": 6,
+      "n_null": 0
+    },
+    "order_wrong_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_unknown_pairs": {
+      "mean": 4,
+      "min": 4,
+      "max": 4,
+      "n_null": 0
+    },
+    "order_accuracy": {
+      "mean": 0.6,
+      "min": 0.6,
+      "max": 0.6,
+      "n_null": 0
+    }
+  },
+  "acak_10%": {
+    "runs": 30,
+    "fraction": {
+      "mean": 0.1,
+      "min": 0.1,
+      "max": 0.1,
+      "n_null": 0
+    },
+    "records_removed": {
+      "mean": 53.166666666666664,
+      "min": 51,
+      "max": 57,
+      "n_null": 0
+    },
+    "records_total": {
+      "mean": 541,
+      "min": 541,
+      "max": 541,
+      "n_null": 0
+    },
+    "roots_total": {
+      "mean": 499,
+      "min": 499,
+      "max": 499,
+      "n_null": 0
+    },
+    "tp": {
+      "mean": 13.3,
+      "min": 9,
+      "max": 17,
+      "n_null": 0
+    },
+    "fp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fn": {
+      "mean": 3.7,
+      "min": 0,
+      "max": 8,
+      "n_null": 0
+    },
+    "precision": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "recall": {
+      "mean": 0.7823529411764706,
+      "min": 0.5294117647058824,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "device_correct": {
+      "mean": 11.166666666666666,
+      "min": 0,
+      "max": 16,
+      "n_null": 0
+    },
+    "device_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_unknown": {
+      "mean": 5.833333333333333,
+      "min": 1,
+      "max": 17,
+      "n_null": 0
+    },
+    "device_accuracy": {
+      "mean": 0.6568627450980392,
+      "min": 0.0,
+      "max": 0.9411764705882353,
+      "n_null": 0
+    },
+    "direction_correct": {
+      "mean": 13.3,
+      "min": 9,
+      "max": 17,
+      "n_null": 0
+    },
+    "direction_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_unknown": {
+      "mean": 3.7,
+      "min": 0,
+      "max": 8,
+      "n_null": 0
+    },
+    "direction_accuracy": {
+      "mean": 0.7823529411764706,
+      "min": 0.5294117647058824,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "time_consistent": {
+      "mean": 13.3,
+      "min": 9,
+      "max": 17,
+      "n_null": 0
+    },
+    "time_inconsistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_unknown": {
+      "mean": 3.7,
+      "min": 0,
+      "max": 8,
+      "n_null": 0
+    },
+    "time_coverage": {
+      "mean": 0.7823529411764706,
+      "min": 0.5294117647058824,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "time_width_median_s": {
+      "mean": 111.80389881666667,
+      "min": 72.141,
+      "max": 327.504404,
+      "n_null": 0
+    },
+    "order_correct_pairs": {
+      "mean": 9.333333333333334,
+      "min": 6,
+      "max": 10,
+      "n_null": 0
+    },
+    "order_wrong_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_unknown_pairs": {
+      "mean": 0.6666666666666666,
+      "min": 0,
+      "max": 4,
+      "n_null": 0
+    },
+    "order_accuracy": {
+      "mean": 0.9333333333333333,
+      "min": 0.6,
+      "max": 1.0,
+      "n_null": 0
+    }
+  },
+  "acak_30%": {
+    "runs": 30,
+    "fraction": {
+      "mean": 0.3,
+      "min": 0.3,
+      "max": 0.3,
+      "n_null": 0
+    },
+    "records_removed": {
+      "mean": 161.46666666666667,
+      "min": 154,
+      "max": 167,
+      "n_null": 0
+    },
+    "records_total": {
+      "mean": 541,
+      "min": 541,
+      "max": 541,
+      "n_null": 0
+    },
+    "roots_total": {
+      "mean": 499,
+      "min": 499,
+      "max": 499,
+      "n_null": 0
+    },
+    "tp": {
+      "mean": 7.5,
+      "min": 3,
+      "max": 12,
+      "n_null": 0
+    },
+    "fp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fn": {
+      "mean": 9.5,
+      "min": 5,
+      "max": 14,
+      "n_null": 0
+    },
+    "precision": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "recall": {
+      "mean": 0.4411764705882353,
+      "min": 0.17647058823529413,
+      "max": 0.7058823529411765,
+      "n_null": 0
+    },
+    "device_correct": {
+      "mean": 5.033333333333333,
+      "min": 0,
+      "max": 12,
+      "n_null": 0
+    },
+    "device_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_unknown": {
+      "mean": 11.966666666666667,
+      "min": 5,
+      "max": 17,
+      "n_null": 0
+    },
+    "device_accuracy": {
+      "mean": 0.296078431372549,
+      "min": 0.0,
+      "max": 0.7058823529411765,
+      "n_null": 0
+    },
+    "direction_correct": {
+      "mean": 7.5,
+      "min": 3,
+      "max": 12,
+      "n_null": 0
+    },
+    "direction_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_unknown": {
+      "mean": 9.5,
+      "min": 5,
+      "max": 14,
+      "n_null": 0
+    },
+    "direction_accuracy": {
+      "mean": 0.4411764705882353,
+      "min": 0.17647058823529413,
+      "max": 0.7058823529411765,
+      "n_null": 0
+    },
+    "time_consistent": {
+      "mean": 7.5,
+      "min": 3,
+      "max": 12,
+      "n_null": 0
+    },
+    "time_inconsistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_unknown": {
+      "mean": 9.5,
+      "min": 5,
+      "max": 14,
+      "n_null": 0
+    },
+    "time_coverage": {
+      "mean": 0.4411764705882353,
+      "min": 0.17647058823529413,
+      "max": 0.7058823529411765,
+      "n_null": 0
+    },
+    "time_width_median_s": {
+      "mean": 164.32433523333333,
+      "min": 68.141,
+      "max": 355.5375655,
+      "n_null": 0
+    },
+    "order_correct_pairs": {
+      "mean": 8.533333333333333,
+      "min": 6,
+      "max": 10,
+      "n_null": 0
+    },
+    "order_wrong_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_unknown_pairs": {
+      "mean": 1.4666666666666666,
+      "min": 0,
+      "max": 4,
+      "n_null": 0
+    },
+    "order_accuracy": {
+      "mean": 0.8533333333333333,
+      "min": 0.6,
+      "max": 1.0,
+      "n_null": 0
+    }
+  },
+  "acak_50%": {
+    "runs": 30,
+    "fraction": {
+      "mean": 0.5,
+      "min": 0.5,
+      "max": 0.5,
+      "n_null": 0
+    },
+    "records_removed": {
+      "mean": 270.03333333333336,
+      "min": 265,
+      "max": 275,
+      "n_null": 0
+    },
+    "records_total": {
+      "mean": 541,
+      "min": 541,
+      "max": 541,
+      "n_null": 0
+    },
+    "roots_total": {
+      "mean": 499,
+      "min": 499,
+      "max": 499,
+      "n_null": 0
+    },
+    "tp": {
+      "mean": 2.9,
+      "min": 1,
+      "max": 7,
+      "n_null": 0
+    },
+    "fp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fn": {
+      "mean": 14.1,
+      "min": 10,
+      "max": 16,
+      "n_null": 0
+    },
+    "precision": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n_null": 0
+    },
+    "recall": {
+      "mean": 0.17058823529411765,
+      "min": 0.058823529411764705,
+      "max": 0.4117647058823529,
+      "n_null": 0
+    },
+    "device_correct": {
+      "mean": 1.8333333333333333,
+      "min": 0,
+      "max": 7,
+      "n_null": 0
+    },
+    "device_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_unknown": {
+      "mean": 15.166666666666666,
+      "min": 10,
+      "max": 17,
+      "n_null": 0
+    },
+    "device_accuracy": {
+      "mean": 0.10784313725490197,
+      "min": 0.0,
+      "max": 0.4117647058823529,
+      "n_null": 0
+    },
+    "direction_correct": {
+      "mean": 2.9,
+      "min": 1,
+      "max": 7,
+      "n_null": 0
+    },
+    "direction_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_unknown": {
+      "mean": 14.1,
+      "min": 10,
+      "max": 16,
+      "n_null": 0
+    },
+    "direction_accuracy": {
+      "mean": 0.17058823529411765,
+      "min": 0.058823529411764705,
+      "max": 0.4117647058823529,
+      "n_null": 0
+    },
+    "time_consistent": {
+      "mean": 2.9,
+      "min": 1,
+      "max": 7,
+      "n_null": 0
+    },
+    "time_inconsistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_unknown": {
+      "mean": 14.1,
+      "min": 10,
+      "max": 16,
+      "n_null": 0
+    },
+    "time_coverage": {
+      "mean": 0.17058823529411765,
+      "min": 0.058823529411764705,
+      "max": 0.4117647058823529,
+      "n_null": 0
+    },
+    "time_width_median_s": {
+      "mean": 217.2937616,
+      "min": 64.141,
+      "max": 398.735946,
+      "n_null": 0
+    },
+    "order_correct_pairs": {
+      "mean": 6.233333333333333,
+      "min": 3,
+      "max": 10,
+      "n_null": 0
+    },
+    "order_wrong_pairs": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "order_unknown_pairs": {
+      "mean": 3.7666666666666666,
+      "min": 0,
+      "max": 7,
+      "n_null": 0
+    },
+    "order_accuracy": {
+      "mean": 0.6233333333333333,
+      "min": 0.3,
+      "max": 1.0,
+      "n_null": 0
+    }
+  },
+  "acak_70%": {
+    "runs": 30,
+    "fraction": {
+      "mean": 0.7,
+      "min": 0.7,
+      "max": 0.7,
+      "n_null": 0
+    },
+    "records_removed": {
+      "mean": 377.93333333333334,
+      "min": 373,
+      "max": 384,
+      "n_null": 0
+    },
+    "records_total": {
+      "mean": 541,
+      "min": 541,
+      "max": 541,
+      "n_null": 0
+    },
+    "roots_total": {
+      "mean": 499,
+      "min": 499,
+      "max": 499,
+      "n_null": 0
+    },
+    "tp": {
+      "mean": 0.9333333333333333,
+      "min": 0,
+      "max": 4,
+      "n_null": 0
+    },
+    "fp": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "fn": {
+      "mean": 16.066666666666666,
+      "min": 13,
+      "max": 17,
+      "n_null": 0
+    },
+    "recall": {
+      "mean": 0.054901960784313725,
+      "min": 0.0,
+      "max": 0.23529411764705882,
+      "n_null": 0
+    },
+    "device_correct": {
+      "mean": 0.3333333333333333,
+      "min": 0,
+      "max": 4,
+      "n_null": 0
+    },
+    "device_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "device_unknown": {
+      "mean": 16.666666666666668,
+      "min": 13,
+      "max": 17,
+      "n_null": 0
+    },
+    "device_accuracy": {
+      "mean": 0.0196078431372549,
+      "min": 0.0,
+      "max": 0.23529411764705882,
+      "n_null": 0
+    },
+    "direction_correct": {
+      "mean": 0.9333333333333333,
+      "min": 0,
+      "max": 4,
+      "n_null": 0
+    },
+    "direction_wrong": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "direction_unknown": {
+      "mean": 16.066666666666666,
+      "min": 13,
+      "max": 17,
+      "n_null": 0
+    },
+    "direction_accuracy": {
+      "mean": 0.054901960784313725,
+      "min": 0.0,
+      "max": 0.23529411764705882,
+      "n_null": 0
+    },
+    "time_consistent": {
+      "mean": 0.9333333333333333,
+      "min": 0,
+      "max": 4,
+      "n_null": 0
+    },
+    "time_inconsistent": {
+      "mean": 0,
+      "min": 0,
+      "max": 0,
+      "n_null": 0
+    },
+    "time_unknown": {
+      "mean": 16.066666666666666,
+      "min": 13,
+      "max": 17,
+      "n_null": 0
+    },
+    "time_coverage": {
+      "mean": 0.054901960784313725,
+      "min": 0.0,
+      "max": 0.23529411764705882,
+      "n_null": 0
+    },
+    "order_correct_pairs": {
+      "mean": 2.933333333333333,
+      "min": 0,
+      "max": 10,
+      "n_null": 0
+    },
+    "order_wrong_pairs": {
+      "mean": 0.03333333333333333,
+      "min": 0,
+      "max": 1,
+      "n_null": 0
+    },
+    "order_unknown_pairs": {
+      "mean": 7.033333333333333,
+      "min": 0,
+      "max": 10,
+      "n_null": 0
+    },
+    "order_accuracy": {
+      "mean": 0.29333333333333333,
+      "min": 0.0,
+      "max": 1.0,
+      "n_null": 0
+    }
+  }
+}
